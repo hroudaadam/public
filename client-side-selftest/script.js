@@ -235,7 +235,7 @@ async function zalozOtazky() {
 
 function pridejOtazku(otazka, a, b, c, d, e) {
     let arr = [a, b, c, d, e];
-    shuffle(arr);
+    arr = shuffle(arr);
 
     let q = {
         otazka: otazka,
