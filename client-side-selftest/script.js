@@ -237,8 +237,6 @@ function pridejOtazku(otazka, a, b, c, d, e) {
     let arr = [a, b, c, d, e];
     shuffle(arr);
 
-    
-
     let q = {
         otazka: otazka,
         a: arr[0],
@@ -260,11 +258,10 @@ function shuffle(input) {
         array.push(element.replace(pattern1, '< ').replace(pattern2, ' >'));
     }
 
-
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
     }
 
-    return 
+    return array;
 }
