@@ -48,11 +48,11 @@ function nactiOtazku() {
     document.getElementById("dalsi").style.visibility = 'hidden';
     otazka = otazky[x];
     document.getElementById('otazka').innerHTML = '<div id="form">' + otazka.otazka + '<br>' +
-        '<br><input id="a" type="radio" name="a" value="a">' + `<span id="aa"> ` + otazka.a + '</span>' +
-        '<br><input id="b" type="radio" name="b" value="b">' + '<span id="bb"> ' + otazka.b + '</span>' +
-        '<br><input id="c" type="radio" name="c" value="c">' + '<span id="cc"> ' + otazka.c + '</span>' +
-        '<br><input id="d" type="radio" name="d" value="d">' + '<span id="dd"> ' + otazka.d + '</span>' +
-        '<br><input id="e" type="radio" name="e" value="e">' + '<span id="ee"> ' + otazka.e + '</span>' + '<br>' +
+        '<br><input id="a" type="radio" name="a">' + `<span id="aa"> ` + otazka.a + '</span>' +
+        '<br><input id="b" type="radio" name="b">' + '<span id="bb"> ' + otazka.b + '</span>' +
+        '<br><input id="c" type="radio" name="c">' + '<span id="cc"> ' + otazka.c + '</span>' +
+        '<br><input id="d" type="radio" name="d">' + '<span id="dd"> ' + otazka.d + '</span>' +
+        '<br><input id="e" type="radio" name="e">' + '<span id="ee"> ' + otazka.e + '</span>' + '<br>' +
         '<br><input id="end" type="button" value="Odpovědět" onclick=check()>' +
         '</div>';
 }
