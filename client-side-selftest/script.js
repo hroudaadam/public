@@ -48,7 +48,7 @@ function nactiOtazku() {
     document.getElementById("dalsi").style.visibility = 'hidden';
     otazka = otazky[x];
     document.getElementById('otazka').innerHTML = '<div id="form">' + otazka.otazka + '<br>' +
-        '<br><input id="a" type="radio" name="a" value="a">' + '<span id="aa"> ' + otazka.a + '</span>' +
+        '<br><input id="a" type="radio" name="a" value="a">' + `<span id="aa"> ` + otazka.a + '</span>' +
         '<br><input id="b" type="radio" name="b" value="b">' + '<span id="bb"> ' + otazka.b + '</span>' +
         '<br><input id="c" type="radio" name="c" value="c">' + '<span id="cc"> ' + otazka.c + '</span>' +
         '<br><input id="d" type="radio" name="d" value="d">' + '<span id="dd"> ' + otazka.d + '</span>' +
@@ -237,6 +237,8 @@ function pridejOtazku(otazka, a, b, c, d, e) {
     let arr = [a, b, c, d, e];
     shuffle(arr);
 
+    
+
     let q = {
         otazka: otazka,
         a: arr[0],
@@ -250,9 +252,19 @@ function pridejOtazku(otazka, a, b, c, d, e) {
     otazky.push(q);
 }
 
-function shuffle(array) {
+function shuffle(input) {
+    let array = [];
+    let pattern1 = /(<\s*)/g;
+    let pattern2 = /(\s*>)/g;
+    for (let i = 0; i < input.length; i++) {
+        array.push(element.replace(pattern1, '< ').replace(pattern2, ' >'));
+    }
+
+
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
     }
+
+    return 
 }

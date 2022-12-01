@@ -1051,7 +1051,7 @@
         {
             "Value #1": "Jakým způsobem se v HTML přidá barva pozadí? ",
             "Value #2": "< body style=\"background-color:Blue;\" >",
-            "Value #3": " < body bg=\"Blue\" >",
+            "Value #3": "< body bg=\"Blue\" >",
             "Value #4": "< background >Blue< /background >",
             "Value #5": "< bg >blue< /bg >",
             "Value #6": "< body style=color=\"Blue;\" >"
