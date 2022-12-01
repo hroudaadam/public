@@ -255,6 +255,7 @@ function shuffle(input) {
     let pattern1 = /(<\s*)/g;
     let pattern2 = /(\s*>)/g;
     for (let i = 0; i < input.length; i++) {
+        const element = input[i];
         array.push(element.replace(pattern1, '< ').replace(pattern2, ' >'));
     }
 
