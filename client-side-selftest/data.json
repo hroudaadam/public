@@ -377,14 +377,6 @@
             "Value #6": "3xx"
         },
         {
-            "Value #1": "Jaký je standardizovaný způsob zápisu komentáře v HTML?",
-            "Value #2": "",
-            "Value #3": "",
-            "Value #4": "",
-            "Value #5": "",
-            "Value #6": ""
-        },
-        {
             "Value #1": "Která metoda slouží k odeslání zprávy v podobě řetězce nebo JavaScript objektu do webové konzole?",
             "Value #2": "log()",
             "Value #3": "alert()",
@@ -1175,14 +1167,6 @@
             "Value #4": "CSS2",
             "Value #5": "CSS2.1",
             "Value #6": "CSS2.2"
-        },
-        {
-            "Value #1": "Jakou značkou se definuje neuspořádaný seznam v HTML?",
-            "Value #2": "",
-            "Value #3": "",
-            "Value #4": "",
-            "Value #5": "",
-            "Value #6": ""
         },
         {
             "Value #1": "Který inline tag se používá pro zvýraznění textu nebo části dokumentu a je snadno manipulovatelný pomocí JavaScriptu a stylován pomocí CSS?",

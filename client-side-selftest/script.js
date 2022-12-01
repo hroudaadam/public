@@ -49,10 +49,10 @@ function nactiOtazku() {
     otazka = otazky[x];
     document.getElementById('otazka').innerHTML = '<div id="form">' + otazka.otazka + '<br>' +
         '<br><input id="a" type="radio" name="a">' + `<span id="aa"> ` + otazka.a + '</span>' +
-        '<br><input id="b" type="radio" name="b">' + '<span id="bb"> ' + otazka.b + '</span>' +
-        '<br><input id="c" type="radio" name="c">' + '<span id="cc"> ' + otazka.c + '</span>' +
-        '<br><input id="d" type="radio" name="d">' + '<span id="dd"> ' + otazka.d + '</span>' +
-        '<br><input id="e" type="radio" name="e">' + '<span id="ee"> ' + otazka.e + '</span>' + '<br>' +
+        '<br><input id="b" type="radio" name="a">' + '<span id="bb"> ' + otazka.b + '</span>' +
+        '<br><input id="c" type="radio" name="a">' + '<span id="cc"> ' + otazka.c + '</span>' +
+        '<br><input id="d" type="radio" name="a">' + '<span id="dd"> ' + otazka.d + '</span>' +
+        '<br><input id="e" type="radio" name="a">' + '<span id="ee"> ' + otazka.e + '</span>' + '<br>' +
         '<br><input id="end" type="button" value="Odpovědět" onclick=check()>' +
         '</div>';
 }
@@ -256,7 +256,7 @@ function shuffle(input) {
     let pattern2 = /(\s*>)/g;
     for (let i = 0; i < input.length; i++) {
         const element = input[i];
-        array.push(element.replace(pattern1, '< ').replace(pattern2, ' >'));
+        array.push(element.replace(pattern1, '≺').replace(pattern2, ' ≻'));
     }
 
     for (let i = array.length - 1; i > 0; i--) {
