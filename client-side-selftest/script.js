@@ -244,7 +244,7 @@ function pridejOtazku(otazka, a, b, c, d, e) {
         c: arr[2],
         d: arr[3],
         e: arr[4],
-        odpoved: a
+        odpoved: correctedHtmlString(a)
     };
 
     otazky.push(q);
@@ -252,11 +252,9 @@ function pridejOtazku(otazka, a, b, c, d, e) {
 
 function shuffle(input) {
     let array = [];
-    let pattern1 = /(<\s*)/g;
-    let pattern2 = /(\s*>)/g;
     for (let i = 0; i < input.length; i++) {
         const element = input[i];
-        array.push(element.replace(pattern1, '≺').replace(pattern2, ' ≻'));
+        array.push(correctedHtmlString(element));
     }
 
     for (let i = array.length - 1; i > 0; i--) {
@@ -265,4 +263,10 @@ function shuffle(input) {
     }
 
     return array;
+}
+
+function correctedHtmlString(value) {
+    let pattern1 = /(<\s*)/g;
+    let pattern2 = /(\s*>)/g;
+    return value.replace(pattern1, '≺').replace(pattern2, ' ≻')
 }
