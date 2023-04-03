@@ -226,7 +226,7 @@ function check() {
 }
 
 async function zalozOtazky() {
-    let res = await fetch('public/server-side-selftest/data.json');
+    let res = await fetch('data.json');
     let data = await res.json();
     data.Table.map(d => {
         pridejOtazku(d["Value #2"], d["Value #3"], d["Value #4"], d["Value #5"], d["Value #6"], d["Value #7"])
