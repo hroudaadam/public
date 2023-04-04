@@ -1,0 +1,2544 @@
+﻿{
+    "Table": [
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Která z následujících architektur webových aplikací podporuje volnou provázanost vrstev a nezávislost na konkrétních technologiích?\n    ",
+            "Value #3": "Clean architecture\n    ",
+            "Value #4": "N-tier architecture\n    ",
+            "Value #5": "all-in-one architecture\n    ",
+            "Value #6": "3-tier architecture\n    ",
+            "Value #7": "soft architecture\n    ",
+            "Value #8": "Hrouda Adam     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Která\nz následujících metod je v protokolu HTTP(S) označena jako bezpečná\n(safe)?\n    ",
+            "Value #3": "GET\n    ",
+            "Value #4": "FIND\n    ",
+            "Value #5": "POST\n    ",
+            "Value #6": "PATCH\n    ",
+            "Value #7": "DELETE\n    ",
+            "Value #8": "Hrouda Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Proměnné jsou v jazyku PHP označeny znakem:\n    ",
+            "Value #3": "$\n    ",
+            "Value #4": "@\n    ",
+            "Value #5": "&\n    ",
+            "Value #6": "#\n    ",
+            "Value #7": "|\n    ",
+            "Value #8": "Řízek Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaká\nčást HTTP(S) požadavku obsahuje přístupový token typu Bearer při dotazování zabezpečeného\nzdroje?\n    ",
+            "Value #3": "hlavičky\n    ",
+            "Value #4": "tělo\n    ",
+            "Value #5": "URI\n    ",
+            "Value #6": "jiná část HTTP požadavku určena pro autentifikaci \n    ",
+            "Value #7": "přístupové tokeny se nikdy neposílají pomocí HTTP(S)\n    ",
+            "Value #8": "Hrouda Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký příkaz slouží pro výpis v jazyku PHP?\n    ",
+            "Value #3": "echo\n    ",
+            "Value #4": "console.log()\n    ",
+            "Value #5": "console.Write()\n    ",
+            "Value #6": "write\n    ",
+            "Value #7": "place\n    ",
+            "Value #8": "Řízek Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Která z následujících architektur webových aplikací lépe podporuje škálování?\n    ",
+            "Value #3": "microservices\n    ",
+            "Value #4": "Clean architecture\n    ",
+            "Value #5": "N-tier architecture\n    ",
+            "Value #6": "all-in-one architecture\n    ",
+            "Value #7": "soft architecture\n    ",
+            "Value #8": "Hrouda Adam     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Který z dvou základních typů architektur webových aplikací je nasazován jako celek?\n    ",
+            "Value #3": "monolitická architektura\n    ",
+            "Value #4": "microservices\n    ",
+            "Value #5": "Clean architecture\n    ",
+            "Value #6": "N-tier architecture\n    ",
+            "Value #7": "all-in-one architecture\n    ",
+            "Value #8": "Hrouda Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se označuje PHP script?\n    ",
+            "Value #3": "< ?php ... ?>\n    ",
+            "Value #4": "< php ... php>\n    ",
+            "Value #5": "< script ... script>\n    ",
+            "Value #6": " < ? ... ?>\n    ",
+            "Value #7": "< ?script ... ?>\n    ",
+            "Value #8": "Řízek Jan     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak správně přičíst jedničku k proměnné $count jazyku PHP?\n    ",
+            "Value #3": " $count++;\n    ",
+            "Value #4": "$count+;\n    ",
+            "Value #5": "++$count;\n    ",
+            "Value #6": "$count+1\n    ",
+            "Value #7": "$count==+1;\n    ",
+            "Value #8": "Řízek Jan     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká globální proměnná obsahuje informace o hlavičce, přístupových cestách a umístění scriptů?\n    ",
+            "Value #3": "$_SERVER \n    ",
+            "Value #4": "$_GLOBAL\n    ",
+            "Value #5": "$_MAIN\n    ",
+            "Value #6": "$_ROOT\n    ",
+            "Value #7": "$_SESSION\n    ",
+            "Value #8": "Řízek Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka JVM?\n    ",
+            "Value #3": "Java Virtual Machine\n    ",
+            "Value #4": "JavaScript Virtual Machine\n    ",
+            "Value #5": "Java Viral Master\n    ",
+            "Value #6": "Java Virtual Master\n    ",
+            "Value #7": "Java Viral Machine\n    ",
+            "Value #8": "Vylíčilová Jana     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Pomocí jakého SQL příkazu lze získat data z DB \n    ",
+            "Value #3": "SELECT\n    ",
+            "Value #4": "UPDATE\n    ",
+            "Value #5": "DELETE\n    ",
+            "Value #6": "INSERT\n    ",
+            "Value #7": "GRANT\n    ",
+            "Value #8": "Vylíčilová Jana     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým protokolem se definují adresy v síti\n    ",
+            "Value #3": "IP\n    ",
+            "Value #4": "UDP\n    ",
+            "Value #5": "HTTP\n    ",
+            "Value #6": "TCP\n    ",
+            "Value #7": "DNS\n    ",
+            "Value #8": "Vylíčilová Jana     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se v PHP označuje víceřádkový komentář?\n    ",
+            "Value #3": "/*Toto je víceřádkový komentář */\n    ",
+            "Value #4": "# Toto je víceřádkový komentář\n    ",
+            "Value #5": "!--Toto je víceřádkový komentář \n    ",
+            "Value #6": "// Toto je víceřádkový komentář //\n    ",
+            "Value #7": "** Toto je víceřádkový komentář **\n    ",
+            "Value #8": "Vylíčilová Jana     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Co je to PHP?\n    ",
+            "Value #3": "Skriptovací programovací jazyk na straně serveru\n    ",
+            "Value #4": "Textový editor pro programátory\n    ",
+            "Value #5": "Operační systém pro vývoj webu\n    ",
+            "Value #6": "Databázový server pro ukládání webových stránek.\n    ",
+            "Value #7": "Program pro tvorbu grafiky na webových stránkách\n    ",
+            "Value #8": "Vylíčilová Jana     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co jsou backlinky a jaký mají vliv na SEO?\n    ",
+            "Value #3": "Backlinky jsou odkazy vedoucí z jedné webové stránky na jinou a mají pozitivní vliv na SEO\n    ",
+            "Value #4": "Backlinky jsou odkazy vedoucí z jedné webové stránky na jinou a mají negativní vliv na SEO\n    ",
+            "Value #5": "Backlinky jsou neplatné odkazy, které mají negativní vliv na SEO\n    ",
+            "Value #6": "Backlinky jsou odkazy vedoucí pouze na stránky v rámci jedné domény a mají negativní vliv na SEO\n    ",
+            "Value #7": "Backlinky jsou synonymem pro interní odkazy a mají pozitivní vliv na SEO\n    ",
+            "Value #8": "Bláha Jan     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co znamená zkratka SERP v kontextu SEO?\n    ",
+            "Value #3": "Search Engine Results Page - stránka s výsledky vyhledávání\n    ",
+            "Value #4": "Search Engine Ranking Page - stránka s řazením vyhledávání\n    ",
+            "Value #5": "Search Engine Results Position - pozice výsledků vyhledávání\n    ",
+            "Value #6": "Search Engine Ranking Position - pozice v řazení vyhledávání\n    ",
+            "Value #7": "Search Engine Ranking Placement - umístění v řazení vyhledávání\n    ",
+            "Value #8": "Bláha Jan     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co je to Google Analytics a jaký je jeho vztah k SEO?\n    ",
+            "Value #3": "Nástroj pro sledování statistik návštěvnosti webových stránek, pomáhá analyzovat výsledky SEO\n    ",
+            "Value #4": "Nástroj pro automatizaci SEO úkolů a zlepšení výsledků SEO\n    ",
+            "Value #5": "Nástroj pro optimalizaci webových stránek a zvýšení kvality SEO\n    ",
+            "Value #6": "Nástroj pro kontrolu a správu backlinků, pomáhá analyzovat výsledky SEO\n    ",
+            "Value #7": "Nástroj pro analýzu klíčových slov a konkurence, pomáhá s tvorbou strategie SEO\n    ",
+            "Value #8": "Bláha Jan     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Jak se nazývá technika SEO, která se zaměřuje na optimalizaci konkrétních klíčových slov?\n    ",
+            "Value #3": "Keyword stuffing\n    ",
+            "Value #4": "Backlinking\n    ",
+            "Value #5": "Content marketing\n    ",
+            "Value #6": "On-page SEO\n    ",
+            "Value #7": "Keyword research\n    ",
+            "Value #8": "Bláha Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je charakteristické pro server-side scripting?\n    ",
+            "Value #3": "Zpracovává požadavky z přohlížečů.\n    ",
+            "Value #4": "Provádí validaci obchodních procesů.\n    ",
+            "Value #5": "Formuluje výstupy JavaScriptu.\n    ",
+            "Value #6": "Je obsažen v prohlížečích.\n    ",
+            "Value #7": "Komunikuje s lokálním úložištěm.\n    ",
+            "Value #8": "Tobiášová Sára     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená ASP?\n    ",
+            "Value #3": "Active Server Pages\n    ",
+            "Value #4": "Access Server Pages\n    ",
+            "Value #5": "Action Service Pages\n    ",
+            "Value #6": "Access Service Ports\n    ",
+            "Value #7": "Armed Server Ports\n    ",
+            "Value #8": "Tobiášová Sára     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Kam budete zasahovat při implementaci Google Analytics do webových stránek s jednoduchou HTML strukturou?\n    ",
+            "Value #3": "Do hlavičky každé stránky.\n    ",
+            "Value #4": "Do externího js souboru.\n    ",
+            "Value #5": "Nikam, jednoduchou HTML strukturu nelze takto měřit.\n    ",
+            "Value #6": "Do souborů CSS.\n    ",
+            "Value #7": "Do hlavičky centrální stránky index.html.\n    ",
+            "Value #8": "Tobiášová Sára     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co patří mezi on-page metody SEO?\n    ",
+            "Value #3": "Strukturování stránky, klíčová slova\n    ",
+            "Value #4": "Crawlování, indexování\n    ",
+            "Value #5": "Propagace mimo web\n    ",
+            "Value #6": "Linkbuilding\n    ",
+            "Value #7": "Zpětné odkazy z webových stránek\n    ",
+            "Value #8": "Tobiášová Sára     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co patří mezi off-page metody SEO?\n    ",
+            "Value #3": "Zpětné odkazy z webových stránek\n    ",
+            "Value #4": "Obsah webové stránky\n    ",
+            "Value #5": "Meta tagy (title a description)\n    ",
+            "Value #6": "URL adresa stránky\n    ",
+            "Value #7": "Crawlování, indexování\n    ",
+            "Value #8": "Tobiášová Sára     \n    "
+        },
+        {
+            "Value #1": "Webhosting\n    ",
+            "Value #2": "Jakou podobu má stavový kód informační (Success), který vrací server jako odpověď na klientský požadavek?\n    ",
+            "Value #3": "2xx\n    ",
+            "Value #4": "400 Bad Request\n    ",
+            "Value #5": "OK\n    ",
+            "Value #6": "POST\n    ",
+            "Value #7": "URL\n    ",
+            "Value #8": "Vavřinová Hana     \n    "
+        },
+        {
+            "Value #1": "Webhosting\n    ",
+            "Value #2": "Jakou podobu má stavový kód značící chybu na straně serveru (Server Error), který vrací server jako odpověď na klientský požadavek?\n    ",
+            "Value #3": "500 Internal Server Error\n    ",
+            "Value #4": "FAIL\n    ",
+            "Value #5": "HTTP\n    ",
+            "Value #6": "404 Not Found\n    ",
+            "Value #7": "204 No Content\n    ",
+            "Value #8": "Vavřinová Hana     \n    "
+        },
+        {
+            "Value #1": "Webhosting\n    ",
+            "Value #2": "Jakou podobu má stavový kód značící chybu na straně klienta (Client Error), který vrací server jako odpověď na klientský požadavek?\n    ",
+            "Value #3": "404 Not Found\n    ",
+            "Value #4": "Client Error\n    ",
+            "Value #5": "204 No Content\n    ",
+            "Value #6": "URL=400\n    ",
+            "Value #7": "Service Unavailable\n    ",
+            "Value #8": "Vavřinová Hana     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jak se nazývá kryptografický protokol umožňující zabezpečenou komunikaci a datovou integritu na Internetu?\n    ",
+            "Value #3": "TLS\n    ",
+            "Value #4": "Nette\n    ",
+            "Value #5": "HTTP\n    ",
+            "Value #6": "Cesnet\n    ",
+            "Value #7": "Apache Server\n    ",
+            "Value #8": "Vavřinová Hana     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jak se nazývá rozhraní pro programování aplikací?\n    ",
+            "Value #3": "API\n    ",
+            "Value #4": "Python\n    ",
+            "Value #5": "Java\n    ",
+            "Value #6": "git\n    ",
+            "Value #7": "Visual Studio\n    ",
+            "Value #8": "Vavřinová Hana     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Co je to Nette? \n    ",
+            "Value #3": "Framework pro tvorbu webových aplikací v PHP\n    ",
+            "Value #4": "Šifrovací algoritmus v symterické kryptografii\n    ",
+            "Value #5": "Šifrovací algoritmus v asymterické kryptografii\n    ",
+            "Value #6": "Výrobce serverové techniky\n    ",
+            "Value #7": "JavaScriptový framework pro tvorbu uživatelského rozhraní\n    ",
+            "Value #8": "Strejc Filip     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Kolik adres obsahuje celkově IPv6?\n    ",
+            "Value #3": "2^128 adres\n    ",
+            "Value #4": "2^32 adres \n    ",
+            "Value #5": "2^64 adres \n    ",
+            "Value #6": "Přesný počet není definován\n    ",
+            "Value #7": "Počet lze škálovat, potenciálně nekonečno\n    ",
+            "Value #8": "Strejc Filip     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Který z těchto webových protokolů lze označit jako transportní?\n    ",
+            "Value #3": "TCP\n    ",
+            "Value #4": "TLS\n    ",
+            "Value #5": "DNS\n    ",
+            "Value #6": "HTTP\n    ",
+            "Value #7": "IP\n    ",
+            "Value #8": "Strejc Filip     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Který protokol slouží k přenostu dokumentů ve formátu XML nebo HTML\n    ",
+            "Value #3": "HTTP \n    ",
+            "Value #4": "DNS\n    ",
+            "Value #5": "IP\n    ",
+            "Value #6": "TCP\n    ",
+            "Value #7": "SSL\n    ",
+            "Value #8": "Strejc Filip     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to CGI? \n    ",
+            "Value #3": "Protokol pro komunikaci mezi webovým serverem a programem generujícím dynamický obsah.\n    ",
+            "Value #4": "Programovají jazyk pro tvorbu dynamických webových stránek\n    ",
+            "Value #5": "Program pro tvorbu webových animací\n    ",
+            "Value #6": "Technologie zajišťující přenos dat mezi webovým serverem a objektovou databází\n    ",
+            "Value #7": "Protokol poskytující možnost zabezpečené komunikace na Internetu.\n    ",
+            "Value #8": "Strejc Filip     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak získáme data z formuláře za pomoci metody get?\n    ",
+            "Value #3": "$_GET[];\n    ",
+            "Value #4": "echo \"jmeno_formulare\"\n    ",
+            "Value #5": "get \"jmeno_formulare\"\n    ",
+            "Value #6": "Request.Form;\n    ",
+            "Value #7": "Request.Form \"jmeno_formulare\";\n    ",
+            "Value #8": "Plocica Ondřej     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký je správný zápis pro vytvoření funkce v PHP?\n    ",
+            "Value #3": "function myFunction()\n    ",
+            "Value #4": "create myFunction()\n    ",
+            "Value #5": "new_function myFuction()\n    ",
+            "Value #6": "declare fuction()\n    ",
+            "Value #7": "f 'myFunction()'\n    ",
+            "Value #8": "Plocica Ondřej     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se tvoří v PHP cookie?\n    ",
+            "Value #3": "setcookie()\n    ",
+            "Value #4": "mycookie()\n    ",
+            "Value #5": "createcookie()\n    ",
+            "Value #6": "cookies()\n    ",
+            "Value #7": "cookie()\n    ",
+            "Value #8": "Plocica Ondřej     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký je korektní zápis pole v PHP?\n    ",
+            "Value #3": "$nazev = array(\"Prvni\", \"Druha\", \"Treti\");\n    ",
+            "Value #4": "array(\"Prvni\", \"Druha\", \"Treti\");\n    ",
+            "Value #5": "$array = nazev(\"Prvni\", \"Druha\", \"Treti\");\n    ",
+            "Value #6": "setarray = (\"Prvni\", \"Druha\", \"Treti\");\n    ",
+            "Value #7": "$nazev = createarray(\"Prvni\", \"Druha\", \"Treti\");\n    ",
+            "Value #8": "Plocica Ondřej     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co je to SEO?\n    ",
+            "Value #3": "Soubor metod s cílem dosáhnout předních pozic ve výsledcích vyhledávače\n    ",
+            "Value #4": "Soubor metod s cílem snížit počet obrázků na stránce.\n    ",
+            "Value #5": "Optimalizační algoritmus zrychlující načítání stránky\n    ",
+            "Value #6": "Optimalizace obsahu stránky podle standardu WCAG\n    ",
+            "Value #7": "Statistický ekonomický objekt \n    ",
+            "Value #8": "Plocica Ondřej     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Co je to SOAP (Simple Object Access Protocol)? \n    ",
+            "Value #3": "Protokol pro zasílání zpráv mezi webovými službami\n    ",
+            "Value #4": "Protokol pro přenos souborů mezi počítači pomocí počítačové sítě\n    ",
+            "Value #5": "Internetový protokol pro vzdálený přístup k e-mailové schránce prostřednictvím e-mailového klienta\n    ",
+            "Value #6": "Internetový protokol, který se používá pro stahování e-mailových zpráv ze vzdáleného serveru na klienta\n    ",
+            "Value #7": "Protokol určený pro komunikaci s WWW servery\n    ",
+            "Value #8": "Růžička Matěj     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co jsou to cookies?\n    ",
+            "Value #3": "Malé datové soubory, které jsou generovány serverem a uloženy na straně klienta\n    ",
+            "Value #4": "Malé datové soubory, které jsou generovány klientem a uloženy na straně serveru\n    ",
+            "Value #5": "Velké datové soubory, které jsou generovány klientem a uloženy na straně serveru\n    ",
+            "Value #6": "Velké datové soubory, které jsou generovány serverem a uloženy na straně klienta\n    ",
+            "Value #7": "Velké datové soubory, které jsou generovány klientem při procházení webové stránky\n    ",
+            "Value #8": "Růžička Matěj     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Kdy se ruší tzv. session cookies? \n    ",
+            "Value #3": "Při zavření prohlížeče\n    ",
+            "Value #4": "Při odchodu na jinou webovou stránku\n    ",
+            "Value #5": "Nemažou se\n    ",
+            "Value #6": "Po uplynutí určité (většinou delší) doby\n    ",
+            "Value #7": "Pouze při odinstalování prohlížeče\n    ",
+            "Value #8": "Růžička Matěj     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jakým způsobem můžeme v Nette frameworku zabezpečit, aby se na stránce nevyskytovala XSS útočná vstupní data?\n    ",
+            "Value #3": "Použít Nette\\Utils\\Html pro vytváření HTML a kontrolovat, zda jsou data bezpečná při renderování\n    ",
+            "Value #4": "Sanitizovat vstupní data pomocí funkce strip_tags()\n    ",
+            "Value #5": "Použít HTML escapování pro všechna vstupní data pomocí funkce htmlspecialchars()\n    ",
+            "Value #6": "Kontrolovat vstupní data pomocí regulárních výrazů a odstraňovat nebezpečné kódy\n    ",
+            "Value #7": "Použít funkci htmlentities() pro escapování speciálních znaků vstupních dat\n    ",
+            "Value #8": "Turoňová Jana     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jaký je v Nette frameworku standardní postup pro vytvoření formuláře?\n    ",
+            "Value #3": "Použít třídu Nette\\Forms\\Form pro vytvoření formuláře a definovat jeho prvky\n    ",
+            "Value #4": "Vytvořit HTML formulář a pak přidat metodu na serveru pro jeho zpracování\n    ",
+            "Value #5": "Vytvořit třídu pro formulář a v ní definovat metody pro jeho zpracování\n    ",
+            "Value #6": "Použít AJAX pro odeslání formuláře a následné zpracování dat na serveru\n    ",
+            "Value #7": "Využít Nette\\Utils\\Html pro vytvoření formuláře a jeho prvků\n    ",
+            "Value #8": "Turoňová Jana     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jaký je rozdíl mezi presenterem a kontrolérem v Nette frameworku?\n    ",
+            "Value #3": "Presenter se používá pro zpracování uživatelského rozhraní, zatímco kontrolér pro logiku a datovou manipulaci.\n    ",
+            "Value #4": "Žádný rozdíl, tyto pojmy se používají jako synonyma.\n    ",
+            "Value #5": "Presenter je specifický typ kontroléru, který se používá pro zpracování HTTP požadavků v Nette frameworku.\n    ",
+            "Value #6": "Kontrolér se používá pouze v Nette verze 2 a nižší, zatímco od verze 3 je používán pouze presenter.\n    ",
+            "Value #7": "Presenter se používá pro zpracování REST API požadavků, zatímco kontrolér pro klasické HTTP požadavky.\n    ",
+            "Value #8": "Turoňová Jana     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co je to bounce rate v kontextu SEO?\n    ",
+            "Value #3": "Bounce rate označuje procento návštěvníků, kteří přijdou na vaši stránku a okamžitě ji opustí bez interakce s ní.\n    ",
+            "Value #4": "Bounce rate označuje procento návštěvníků, kteří na vaší stránce zůstanou déle než 5 sekund.\n    ",
+            "Value #5": "Bounce rate označuje počet unikátních návštěvníků, kteří navštíví vaši stránku během určitého období.\n    ",
+            "Value #6": "Bounce rate označuje počet stránek, které byly na vašem webu zobrazeny během určitého období.\n    ",
+            "Value #7": "Bounce rate označuje průměrný čas, který stráví návštěvník na vaší stránce.\n    ",
+            "Value #8": "Turoňová Jana     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co znamená pojem \"white hat\" v SEO?\n    ",
+            "Value #3": "White hat označuje techniky SEO, které jsou v souladu s pravidly a směrnicemi vyhledávačů a jsou považovány za etické.\n    ",
+            "Value #4": "White hat je pojem pro algoritmus Google, který se zaměřuje na kvalitní a relevantní obsah na webových stránkách.\n    ",
+            "Value #5": "White hat znamená, že webová stránka je bezpečná a chráněna proti neoprávněným útokům hackerských skupin.\n    ",
+            "Value #6": "White hat označuje spamování webových stránek s velkým množstvím klíčových slov, aby se zvýšila viditelnost stránky v SERP.\n    ",
+            "Value #7": "White hat označuje techniky SEO, které jsou v rozporu s pravidly a směrnicemi vyhledávačů a jsou považovány za neetické.\n    ",
+            "Value #8": "Turoňová Jana     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Co znamená zkratka PHP?\n    ",
+            "Value #3": "PHP: Hypertext Preprocessor\n    ",
+            "Value #4": "Private Home Page\n    ",
+            "Value #5": "Personal Hypertext Preparator\n    ",
+            "Value #6": "Page Hypertext Preparator\n    ",
+            "Value #7": "Private Home Preprocessor\n    ",
+            "Value #8": "Homza Martin     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Syntaxe programovacího jazyka PHP byla inspirována jakým programovacím jazykem, či jazyky?\n    ",
+            "Value #3": "Perl, C, Pascal, Java\n    ",
+            "Value #4": "JavaScript\n    ",
+            "Value #5": "VBScript\n    ",
+            "Value #6": "Lisp\n    ",
+            "Value #7": "Prolog\n    ",
+            "Value #8": "Homza Martin     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak lze správně v rámci kódu jazyka PHP zapsat načtení (připojení) dalšího skriptu s názvem \"file.php\"?\n    ",
+            "Value #3": "include \"file.php\";\n    ",
+            "Value #4": "include file=\"file.php\";\n    ",
+            "Value #5": "include src=\"file.php\";\n    ",
+            "Value #6": "include href=\"file.php\";\n    ",
+            "Value #7": "include code=\"file.php\";\n    ",
+            "Value #8": "Homza Martin     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký operátor je potřeba v jazyce PHP použít pro porovnání, zda jsou dvě hodnoty stejné a mají i dokonce stejný datový typ?\n    ",
+            "Value #3": "===\n    ",
+            "Value #4": "==\n    ",
+            "Value #5": "=\n    ",
+            "Value #6": "!=\n    ",
+            "Value #7": "=>\n    ",
+            "Value #8": "Homza Martin     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká funkce v jazyce PHP vrací hodnotu délky (počtu znaků) daného textového rětězce?\n    ",
+            "Value #3": "strlen()\n    ",
+            "Value #4": "size()\n    ",
+            "Value #5": "length()\n    ",
+            "Value #6": "count()\n    ",
+            "Value #7": "string_length()\n    ",
+            "Value #8": "Homza Martin     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký z mnoha frameworků se používa při tvorbě back-endu aplikace?\n    ",
+            "Value #3": "Django\n    ",
+            "Value #4": "React\n    ",
+            "Value #5": "Angular\n    ",
+            "Value #6": "Vue.js\n    ",
+            "Value #7": "jQuery\n    ",
+            "Value #8": "Bureš Dominik     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakou zkratkou se označuje správce balíčků pro JavaScript, výchozí správce balíčků pro prostředí Node.js?\n    ",
+            "Value #3": "npm\n    ",
+            "Value #4": "CGI\n    ",
+            "Value #5": "MVC\n    ",
+            "Value #6": "TLS\n    ",
+            "Value #7": "JVM\n    ",
+            "Value #8": "Bureš Dominik     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jakou zkratku má síť pro doručování obsahu?\n    ",
+            "Value #3": "CDN\n    ",
+            "Value #4": "CGI\n    ",
+            "Value #5": "DOM\n    ",
+            "Value #6": "JVM\n    ",
+            "Value #7": "MVW\n    ",
+            "Value #8": "Bureš Dominik     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Co označuje písmeno S v protokolu HTTPS?\n    ",
+            "Value #3": "Secure\n    ",
+            "Value #4": "Secrete\n    ",
+            "Value #5": "Save\n    ",
+            "Value #6": "Source\n    ",
+            "Value #7": "Set\n    ",
+            "Value #8": "Bureš Dominik     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jak se označuje protokol, resp. vrstva vložená mezi vrstvu transportní \n(např. TCP/IP) a aplikační (např. HTTP), která poskytuje zabezpečení \nkomunikace šifrováním a autentizaci komunikujících stran?\n    ",
+            "Value #3": "SSL\n    ",
+            "Value #4": "SSD\n    ",
+            "Value #5": "CGI\n    ",
+            "Value #6": "TLC\n    ",
+            "Value #7": "STL\n    ",
+            "Value #8": "Bureš Dominik     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co reprezentuje zkratka SSR ?\n    ",
+            "Value #3": "Rendrování na straně serveru\n    ",
+            "Value #4": "Rendrování v cloudu\n    ",
+            "Value #5": "Diky javascriptové optimalizaci nemusí být data rendrována\n    ",
+            "Value #6": "Rendrování na straně clienta\n    ",
+            "Value #7": "Sovětský svaz\n    ",
+            "Value #8": "Hlaváček Martin     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Cookie se generuje:\n    ",
+            "Value #3": "generuje se na straně serveru a ukládá se na stranu klienta po dobu kterou stanoví server nebo klient\n    ",
+            "Value #4": "generuje se na straně klienta a ukládá se na stranu klienta po dobu kterou stanoví server nebo klient\n    ",
+            "Value #5": "generuje se na straně klienta a ukládá se na stranu serveru po dobu kterou stanoví server nebo klient\n    ",
+            "Value #6": "generuje se na straně serveru a ukládá se na stranu serveru po dobu kterou stanoví server nebo klient\n    ",
+            "Value #7": "generuje se na straně serveru i bez souhlasu klienta\n    ",
+            "Value #8": "Hlaváček Martin     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Který z těchto typů VPN má aktuálně nejvyšší efektivitu při zachování bezpečnosti ? \n    ",
+            "Value #3": "WireGuard\n    ",
+            "Value #4": "PPTP\n    ",
+            "Value #5": "OpenVPN\n    ",
+            "Value #6": "IKEv2\n    ",
+            "Value #7": "IPsec\n    ",
+            "Value #8": "Hlaváček Martin     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Nejnižší vrstva RM-OSI modelu se jmenuje:\n    ",
+            "Value #3": "Fyzická\n    ",
+            "Value #4": "Aplikační\n    ",
+            "Value #5": "Linková vrstva\n    ",
+            "Value #6": "Transportní\n    ",
+            "Value #7": "Síťová\n    ",
+            "Value #8": "Hlaváček Martin     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Co je to v souvislosti se sítěmi pojem Jitter ?\n    ",
+            "Value #3": "Jitter značí hodnotu velikosti kolísání při odezvě (latenci) internetu a pomáhá k diagnostice stability připojení.\n    ",
+            "Value #4": "Jitter značí hodnotu velikosti odezvy do sítě internet a pomáhá k diagnostice stability připojení.\n    ",
+            "Value #5": "Jitter značí rychlost stahování dat do sítě internet a pomáhá k diagnostice stability připojení.\n    ",
+            "Value #6": "Jitter značí rychlost odesílání dat do sítě internet a pomáhá k diagnostice stability připojení.\n    ",
+            "Value #7": "Jitter není třeba měřit\n    ",
+            "Value #8": "Hlaváček Martin     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Kolik adres obsahuje celkově IPv4?\n    ",
+            "Value #3": "2^32 adres\n    ",
+            "Value #4": "2^16 adres\n    ",
+            "Value #5": "2^64 adres\n    ",
+            "Value #6": "2^128 adres\n    ",
+            "Value #7": "2^256 adres\n    ",
+            "Value #8": "Budík Michal     \n    "
+        },
+        {
+            "Value #1": "Webhosting\n    ",
+            "Value #2": "Který z cloudových distribučních modelů zajišťuje nejvyšší kontrolu nad softwarem, hardwarem, firewallem atd.\n    ",
+            "Value #3": "IaaS\n    ",
+            "Value #4": "PaaS\n    ",
+            "Value #5": "SaaS\n    ",
+            "Value #6": "DaaS\n    ",
+            "Value #7": "AaaS\n    ",
+            "Value #8": "Budík Michal     \n    "
+        },
+        {
+            "Value #1": "Webhosting\n    ",
+            "Value #2": "Jaký typ webového serveru je nejvhodnější pro velké webové stránky s vysokou návštěvností?\n    ",
+            "Value #3": "Dedicated hosting\n    ",
+            "Value #4": "Virtual hosting\n    ",
+            "Value #5": "Cloud hosting\n    ",
+            "Value #6": "VPS hosting\n    ",
+            "Value #7": "Shared hosting\n    ",
+            "Value #8": "Budík Michal     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Co je Web 2.0?\n    ",
+            "Value #3": "Označení současného stavu vývoje webu, v níž byl statický obsah webových stránek více interaktivním typem webových stránek.\n    ",
+            "Value #4": "Nová verze webových prohlížečů.\n    ",
+            "Value #5": "Název internetového prohlížeče vydaného v roce 2002.\n    ",
+            "Value #6": "Webová aplikace, která využívá cloudové technologie. \n    ",
+            "Value #7": "Blockchain\n    ",
+            "Value #8": "Budík Michal     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jaký je účel DHCP v počítačových sítích?\n    ",
+            "Value #3": "Přidělení IP adresy počítači\n    ",
+            "Value #4": "Vytvoření firewallu pro ochranu sítě\n    ",
+            "Value #5": "Zrychlení přenosu dat mezi zařízeními v síti\n    ",
+            "Value #6": "Vytvoření webové stránky pro administraci sítě\n    ",
+            "Value #7": "Změna typu sítě na privátní nebo veřejnou.\n    ",
+            "Value #8": "Budík Michal     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak vypsat \"Hello world\" v PHP?\n    ",
+            "Value #3": "echo \"Hello world\";\n    ",
+            "Value #4": "Document.Write(\"Hello world\");\n    ",
+            "Value #5": "print(\"Hello world\");\n    ",
+            "Value #6": "\"Hello world\"\n    ",
+            "Value #7": "System.Console.WriteLine(\"Hello World!\");\n    ",
+            "Value #8": "Najman Karel     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Která z následujících funkcí se používá k navázání připojení k databázi v PHP?\n    ",
+            "Value #3": "mysqli_connect()\n    ",
+            "Value #4": "mysqli_query()\n    ",
+            "Value #5": "mysql_select_db()\n    ",
+            "Value #6": "mysql_connect()\n    ",
+            "Value #7": "mysqli_close()\n    ",
+            "Value #8": "Najman Karel     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Která z následujících možností je populární framework PHP používaný pro vývoj webu?\n    ",
+            "Value #3": "Laravel\n    ",
+            "Value #4": "Django\n    ",
+            "Value #5": "Ruby on Rails\n    ",
+            "Value #6": "Flask\n    ",
+            "Value #7": "Express.js\n    ",
+            "Value #8": "Najman Karel     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Který z následujících je stavový kód HTTP označující úspěšnou odpověď na požadavek klienta?\n    ",
+            "Value #3": "200\n    ",
+            "Value #4": "401\n    ",
+            "Value #5": "404\n    ",
+            "Value #6": "500\n    ",
+            "Value #7": "503\n    ",
+            "Value #8": "Najman Karel     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Syntaxe PHP je nejvíce podobná\n    ",
+            "Value #3": "Perl a C\n    ",
+            "Value #4": "JavaScript\n    ",
+            "Value #5": "VBScript\n    ",
+            "Value #6": "Python\n    ",
+            "Value #7": "Lisp\n    ",
+            "Value #8": "Najman Karel     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký je maximální počet tabulek, které lze v MySQL databázi vytvořit?\n    ",
+            "Value #3": "Není omezeno.\n    ",
+            "Value #4": "1 000\n    ",
+            "Value #5": "10 000\n    ",
+            "Value #6": "100 000\n    ",
+            "Value #7": "1 000 000\n    ",
+            "Value #8": "Dittrichová Diana     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký je význam zkratky SQL?\n    ",
+            "Value #3": "Strukturovaný dotazovací jazyk\n    ",
+            "Value #4": "Společnost pro zpracování odpadů\n    ",
+            "Value #5": "Skupina kovů pro výrobu letadel\n    ",
+            "Value #6": "Systém pro ukládání květin\n    ",
+            "Value #7": "Seznam kvalitních literárních děl\n    ",
+            "Value #8": "Dittrichová Diana     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co dělá INNER JOIN?\n    ",
+            "Value #3": "Vrací řádky, které mají shodné hodnoty v obou spojovaných tabulkách.\n    ",
+            "Value #4": "Vrací všechny řádky.\n    ",
+            "Value #5": "Vrací liché řádky.\n    ",
+            "Value #6": "Vrací sudé řádky.\n    ",
+            "Value #7": "Vrací všechny sloupce.\n    ",
+            "Value #8": "Dittrichová Diana     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je OUTER JOIN v MySQL?\n    ",
+            "Value #3": "Vrací všechny řádky z obou spojovaných tabulek.\n    ",
+            "Value #4": "Vrací shodné řádky.\n    ",
+            "Value #5": "Vrací liché řádky.\n    ",
+            "Value #6": "Vrací sudé řádky.\n    ",
+            "Value #7": "Vrací všechny sloupce.\n    ",
+            "Value #8": "Dittrichová Diana     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký příkaz v MySQL se používá k vytvoření nové tabulky v databázi?\n    ",
+            "Value #3": "CREATE TABLE\n    ",
+            "Value #4": "CREATE COLUMN\n    ",
+            "Value #5": "NEW TABLE\n    ",
+            "Value #6": "INSERT TABLE\n    ",
+            "Value #7": "TABLE CREATE\n    ",
+            "Value #8": "Dittrichová Diana     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jakou syntaxi má funkce, kterou zjišťujeme, zda je proměnná definována?\n    ",
+            "Value #3": "isset($proměnná)\n    ",
+            "Value #4": "iset($proměnná)\n    ",
+            "Value #5": "isset(@proměnná)\n    ",
+            "Value #6": "isset(&proměnná)\n    ",
+            "Value #7": "iset(&proměnná)\n    ",
+            "Value #8": "Hauptmann Lubor     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jakým operátorem se v jazyce PHP připojuje řetězec k téže proměnné?\n    ",
+            "Value #3": ".=\n    ",
+            "Value #4": "=\n    ",
+            "Value #5": "=.\n    ",
+            "Value #6": "-=\n    ",
+            "Value #7": "/=\n    ",
+            "Value #8": "Hauptmann Lubor     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Z kolika bitů se skládá MAC adresa?\n    ",
+            "Value #3": "48\n    ",
+            "Value #4": "24\n    ",
+            "Value #5": "16\n    ",
+            "Value #6": "8\n    ",
+            "Value #7": "32\n    ",
+            "Value #8": "Hauptmann Lubor     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "V jakém tvaru bývá nejčastěji vyjádřena MAC adresa?\n    ",
+            "Value #3": "v šestnáctkovém\n    ",
+            "Value #4": "ve dvojkovém\n    ",
+            "Value #5": "v desítkovém\n    ",
+            "Value #6": "v osmičkovém\n    ",
+            "Value #7": "obrázkem\n    ",
+            "Value #8": "Hauptmann Lubor     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co znamená zkratka MAC u MAC adresy?\n    ",
+            "Value #3": "Media Access Control\n    ",
+            "Value #4": "Multi Access Control\n    ",
+            "Value #5": "Media Arrange Control\n    ",
+            "Value #6": "Multi Acces Client\n    ",
+            "Value #7": "Media Acces Client\n    ",
+            "Value #8": "Hauptmann Lubor     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to Apache?\n    ",
+            "Value #3": "Webový HTTP server\n    ",
+            "Value #4": "Databázový server\n    ",
+            "Value #5": "Operační systém\n    ",
+            "Value #6": "Grafické rozhraní\n    ",
+            "Value #7": "Textový editor\n    ",
+            "Value #8": "Rajnošek Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to Node.js?\n    ",
+            "Value #3": "Server-side framework pro JavaScript\n    ",
+            "Value #4": "Server-side framework pro Python\n    ",
+            "Value #5": "Client-side framework pro PHP\n    ",
+            "Value #6": "Server-side framework pro Ruby\n    ",
+            "Value #7": "Server-side framework pro Java\n    ",
+            "Value #8": "Rajnošek Jan     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Co znamená termín \"load balancing\"?\n    ",
+            "Value #3": "Efektivní rozdělení zátěže v síti\n    ",
+            "Value #4": "Optimalizace načítání stránky\n    ",
+            "Value #5": "Ochrana serveru před malware\n    ",
+            "Value #6": "Zabezpečení serveru proti útokům\n    ",
+            "Value #7": "Synchronizace dat\n    ",
+            "Value #8": "Rajnošek Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená termín \"caching\"?\n    ",
+            "Value #3": "Ukládání často používaných dat do paměti pro rychlejší přístup\n    ",
+            "Value #4": "Optimalizace načítání stránky\n    ",
+            "Value #5": "Překlad kódu do strojového jazyka\n    ",
+            "Value #6": "Rozdělení zátěže mezi více serverů\n    ",
+            "Value #7": "Ochrana serveru před malware\n    ",
+            "Value #8": "Rajnošek Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to MVC architektura?\n    ",
+            "Value #3": "Architektura která rozděluje aplikaci na model, view a controller\n    ",
+            "Value #4": "Architektura pro databázové systémy\n    ",
+            "Value #5": "Architektura pro ukládání souborů na serveru\n    ",
+            "Value #6": "Architektura pro ukládání uživatelských dat v prohlížeči\n    ",
+            "Value #7": "Architektura pro maximalizování výkonu serveru\n    ",
+            "Value #8": "Rajnošek Jan     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Co je to Git?\n    ",
+            "Value #3": "Verzovací systém\n    ",
+            "Value #4": "Správce balíčků\n    ",
+            "Value #5": "Správce MySQL databáze\n    ",
+            "Value #6": "Protokol k přenosu dokumentů\n    ",
+            "Value #7": "Zastaralý programovací jazyk\n    ",
+            "Value #8": "Kocura Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Co je to Yarn?\n    ",
+            "Value #3": "Správce balíčků\n    ",
+            "Value #4": "Verzovací systém\n    ",
+            "Value #5": "Správce MySQL databáze\n    ",
+            "Value #6": "Protokol k přenosu dokumentů\n    ",
+            "Value #7": "Zastaralý programovací jazyk\n    ",
+            "Value #8": "Kocura Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Co je to Adminer?\n    ",
+            "Value #3": "Správce MySQL databáze\n    ",
+            "Value #4": "Správce balíčků\n    ",
+            "Value #5": "Verzovací systém\n    ",
+            "Value #6": "Protokol k přenosu dokumentů\n    ",
+            "Value #7": "Zastaralý programovací jazyk\n    ",
+            "Value #8": "Kocura Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Co znamená zkratka CMS v kontextu webových stránek?\n    ",
+            "Value #3": "Content Management System\n    ",
+            "Value #4": "Customer Management System\n    ",
+            "Value #5": "Cloud Management System\n    ",
+            "Value #6": "Client Management System\n    ",
+            "Value #7": "Cascading Management System\n    ",
+            "Value #8": "Kocura Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "K čemu slouží indexy v SQL?\n    ",
+            "Value #3": "Ke zlepšení výkonu dotazů\n    ",
+            "Value #4": "K zajištění integrity dat\n    ",
+            "Value #5": "K ukládání fotografií do databáze\n    ",
+            "Value #6": "K automatickému generování nových záznamů\n    ",
+            "Value #7": "Ke správě transakcí\n    ",
+            "Value #8": "Kocura Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jakým způsobem funguje protokol TCP v počítačových sítích?\n    ",
+            "Value #3": "Kontroluje přenos dat a zajišťuje doručení dat bez ztráty nebo duplikace.\n    ",
+            "Value #4": "Slouží k adresaci zařízení v síti.\n    ",
+            "Value #5": "Zabezpečuje šifrování přenášených dat v síti.\n    ",
+            "Value #6": "Určuje, jak jsou počítače propojeny fyzicky v síti.\n    ",
+            "Value #7": "Slouží ke kontrole přístupu uživatelů ke zdrojům v síti.\n    ",
+            "Value #8": "Karas Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jakým způsobem funguje protokol UDP v počítačových sítích?\n    ",
+            "Value #3": "Umožňuje rychlý přenos dat, ale nezajišťuje jejich doručení ani kontrolu.\n    ",
+            "Value #4": "Kontroluje tok dat, aby nedocházelo k zahlcení sítě\n    ",
+            "Value #5": "Kontroluje přenos dat a zajišťuje doručení dat bez ztráty nebo duplikace.\n    ",
+            "Value #6": "Slouží k adresaci zařízení v síti.\n    ",
+            "Value #7": "Zajišťuje, že data dorazí v pořadí, v jakém byla odeslána.\n    ",
+            "Value #8": "Karas Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým účelem slouží Captcha na webových stránkách?\n    ",
+            "Value #3": "Chrání webové stránky před robotickými útoky a spamem.\n    ",
+            "Value #4": "Slouží k získání osobních údajů uživatelů.\n    ",
+            "Value #5": "Zabraňuje uživatelům vstupovat na webové stránky.\n    ",
+            "Value #6": "Zajišťuje zabezpečení dat, která jsou posílána přes webové stránky.\n    ",
+            "Value #7": "Umožňuje webovým stránkám vytvářet statistiky o uživatelské aktivitě.\n    ",
+            "Value #8": "Karas Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým způsobem Git umožňuje správu verzí kódu?\n    ",
+            "Value #3": "Ukládá celou historii verzí kódu a umožňuje vracet se k předchozím verzím.\n    ",
+            "Value #4": "Ukládá pouze aktuální verzi kódu a přepisuje předchozí verze.\n    ",
+            "Value #5": "Umožňuje ukládat pouze určité části kódu.\n    ",
+            "Value #6": "Umožňuje pouze lineární vývoj kódu bez větví.\n    ",
+            "Value #7": "Umožňuje správu verzí pouze na lokálním počítači.\n    ",
+            "Value #8": "Karas Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Který z následujících protokolů je určen pro bezpečnou komunikaci mezi webovým prohlížečem a webovým serverem a zajišťuje šifrování dat v přenášené komunikaci?\n    ",
+            "Value #3": "HTTPS\n    ",
+            "Value #4": "FTP\n    ",
+            "Value #5": "SMTP\n    ",
+            "Value #6": "Telnet\n    ",
+            "Value #7": "SSH\n    ",
+            "Value #8": "Karas Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka AJAX v kontextu webových technologií?\n    ",
+            "Value #3": "Asynchronous JavaScript and XML\n    ",
+            "Value #4": "Advanced JavaScript and XML\n    ",
+            "Value #5": "Asymmetric JavaScript and XML\n    ",
+            "Value #6": "Active JavaScript Extra\n    ",
+            "Value #7": "Automated JavaScript and XML\n    ",
+            "Value #8": "Růžička Matěj     \n    "
+        },
+        {
+            "Value #1": "Webhosting\n    ",
+            "Value #2": "Která z následujících možností není typem webhostingu?\n    ",
+            "Value #3": "offline hosting\n    ",
+            "Value #4": "dedikovaný hosting\n    ",
+            "Value #5": "sdílený hosting\n    ",
+            "Value #6": "virtuální privátní server (VPS) hosting\n    ",
+            "Value #7": "cloud hosting\n    ",
+            "Value #8": "Růžička Matěj     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Do jaké skupiny databází patří MongoDB?\n    ",
+            "Value #3": "Dokumentové DB\n    ",
+            "Value #4": "Relační DB\n    ",
+            "Value #5": "Objektové DB\n    ",
+            "Value #6": "Grafové DB\n    ",
+            "Value #7": "Key-value DB\n    ",
+            "Value #8": "Mikeš Vojtěch     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Která metoda testuje přítomnost hodnoty v poli?\n    ",
+            "Value #3": "in_array(mixed $needle, array $haystack, bool $strict = false): bool\n    ",
+            "Value #4": "includes(mixed $needle, array $haystack, bool $strict = false): bool\n    ",
+            "Value #5": "isin(mixed $needle, array $haystack, bool $strict = false): bool\n    ",
+            "Value #6": "include(mixed $needle, array $haystack, bool $strict = false): bool\n    ",
+            "Value #7": "contains(mixed $needle, array $haystack, bool $strict = false): bool\n    ",
+            "Value #8": "Mikeš Vojtěch     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký je rozdíl mezi \"==\" a \"===\" v PHP?\n    ",
+            "Value #3": "\"==\" porovnává hodnoty proměnných a převádí je na stejný datový typ, pokud jsou různé, zatímco \"===\" porovnává hodnoty a datové typy přímo.\n    ",
+            "Value #4": "\"==\" a \"===\" jsou synonyma\n    ",
+            "Value #5": "\"==\" vrací boolean hodnotu, zatímco \"===\" vrací string\n    ",
+            "Value #6": "\"===\" porovnává pouze hodnoty proměnných\n    ",
+            "Value #7": "\"==\" porovnává pouze datové typy proměnných\n    ",
+            "Value #8": "Galambová Eliška     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jakým způsobem se v PHP definuje proměnná?\n    ",
+            "Value #3": "Proměnná se definuje pomocí znaku \"$\" následovaného názvem proměnné\n    ",
+            "Value #4": "Proměnná se definuje pomocí slova \"var\", \"let\"\n    ",
+            "Value #5": "Proměnná se definuje pomocí znaku \"@\"\n    ",
+            "Value #6": "Proměnná se definuje pomocí slova \"define\"\n    ",
+            "Value #7": "Proměnná se definuje pomocí slova \"const\"\n    ",
+            "Value #8": "Galambová Eliška     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Co je to presenter v Nette?\n    ",
+            "Value #3": "Presenter je komponenta, která zpracovává uživatelské požadavky, volá model a vytváří pohledy.\n    ",
+            "Value #4": "Presenter je databázová tabulka\n    ",
+            "Value #5": "Presenter je souborový formát\n    ",
+            "Value #6": "Presenter je druh formulářového prvku\n    ",
+            "Value #7": "Presenter je metoda v PHP\n    ",
+            "Value #8": "Galambová Eliška     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jakým způsobem se v Nette zajišťuje validace formulářů?\n    ",
+            "Value #3": "Validace formulářů se zajišťuje pomocí komponenty Form a přiřazením validačních pravidel pro jednotlivé prvky formuláře\n    ",
+            "Value #4": "Validace formulářů se zajišťuje pomocí databázových dotazů\n    ",
+            "Value #5": "Validace formulářů se zajišťuje pomocí HTML tagů\n    ",
+            "Value #6": "Validace formulářů se zajišťuje automaticky bez potřeby speciálního kódu\n    ",
+            "Value #7": "Validace formulářů se zajišťuje pomocí AJAX technologie\n    ",
+            "Value #8": "Galambová Eliška     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Které webové technologie jsou charakteristické pro Web 2.0?\n    ",
+            "Value #3": "AJAX, RSS a webové služby\n    ",
+            "Value #4": "Flash a Java Applet\n    ",
+            "Value #5": "HTML a CSS\n    ",
+            "Value #6": "FTP a Telnet\n    ",
+            "Value #7": "SMTP a POP3\n    ",
+            "Value #8": "Galambová Eliška     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká metoda v PHP se považuje za bezpečnou?\n    ",
+            "Value #3": "POST\n    ",
+            "Value #4": "GET\n    ",
+            "Value #5": "REQUEST\n    ",
+            "Value #6": "DATE\n    ",
+            "Value #7": "IMAGE\n    ",
+            "Value #8": "Chilcenco Maximilian     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jaká verze TLS protokolu se doporučuje používat v dnešní době a považuje se za bezpečnou?\n    ",
+            "Value #3": "TLS 1.2\n    ",
+            "Value #4": "TLS 1.0\n    ",
+            "Value #5": "TLS 1.1\n    ",
+            "Value #6": "TLS 2.0\n    ",
+            "Value #7": "TLS 1.5\n    ",
+            "Value #8": "Chilcenco Maximilian     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Co znamená zkratka TTL u paketu?\n    ",
+            "Value #3": "Time To Live\n    ",
+            "Value #4": "Time To Log\n    ",
+            "Value #5": "Time To Look\n    ",
+            "Value #6": "Time To Love\n    ",
+            "Value #7": "Time To Lock\n    ",
+            "Value #8": "Chilcenco Maximilian     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jaký protokol používá příkaz PING?\n    ",
+            "Value #3": "ICMP\n    ",
+            "Value #4": "ARP\n    ",
+            "Value #5": "TCP/IP\n    ",
+            "Value #6": "IMAP\n    ",
+            "Value #7": "SMTP\n    ",
+            "Value #8": "Chilcenco Maximilian     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Co je technologie PoE - Power over Ethernet? \n    ",
+            "Value #3": "přenášení elektrického napájení spolu s daty přes jediný Ethernetový kabel\n    ",
+            "Value #4": "typ firewallu pro zabezpečení sítě před útoky.\n    ",
+            "Value #5": "typ routovacího protokolu pro směrování dat v síti\n    ",
+            "Value #6": "technologie pro překlad doménových jmen na IP adresy\n    ",
+            "Value #7": "termín pro latenci v počítačových sítích\n    ",
+            "Value #8": "Chilcenco Maximilian     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaké jsou používané webové servery na internetu?\n    ",
+            "Value #3": "nginx, Apache\n    ",
+            "Value #4": "Apache, Hadoop\n    ",
+            "Value #5": "Windows NT, Twitter Musk servers\n    ",
+            "Value #6": "WSDL, Cloudflare\n    ",
+            "Value #7": "MySQL, HTTP/2.\n    ",
+            "Value #8": "Vašák Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka “LAMP” označovaná pro konfiguraci Apache serveru? \n    ",
+            "Value #3": "Linux, Apache, MySQL a PHP (ev. Python)\n    ",
+            "Value #4": "Lingo, Amazon, MySQL, Pascal\n    ",
+            "Value #5": "Linux, Amazon, MongoDB, Prolog\n    ",
+            "Value #6": "Localhost, Apache, MongoDB a PHP (ev. PowerShell)\n    ",
+            "Value #7": "Latex, Apache, MariaDB a Perl\n    ",
+            "Value #8": "Vašák Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Rozhraní čeho napsáno ve strojově zpracovatelném formátu WSDL, a v jakém formátu je jeho struktura?\n    ",
+            "Value #3": "Webové služby, je ve formátu XML\n    ",
+            "Value #4": "Webové aplikace, je ve formátu HTML\n    ",
+            "Value #5": "Webového serveru, je ve formátu CSV\n    ",
+            "Value #6": "Webového protokolu, je ve formátu HTTP\n    ",
+            "Value #7": "Webové stránky, je ve formátu PDF\n    ",
+            "Value #8": "Vašák Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je REST (Representational state transfer)? \n    ",
+            "Value #3": "Architektonický styl, jeho použitím dochází k oddělení klienta a serveru (mohou vznikat jako dva zcela nezávislé softwary).\n    ",
+            "Value #4": "Programovací jazyk pro tvorbu webových aplikací.\n    ",
+            "Value #5": "Způsob, jakým webové prohlížeče stahují webové stránky z internetu.\n    ",
+            "Value #6": "Protokol pro sdílení multimediálních souborů mezi různými zařízeními v síti.\n    ",
+            "Value #7": "Speciální druh bezpečnostního certifikátu používaný pro šifrovanou komunikaci, který se používá pro šifrování veřejného klíče.\n    ",
+            "Value #8": "Vašák Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký princip přebírá REST z HTTP?\n    ",
+            "Value #3": "REST přebírá z HTTP jeho bezstavovost.\n    ",
+            "Value #4": "REST přebírá z HTTP jeho použití pro komunikaci mezi zařízeními IoT.\n    ",
+            "Value #5": "REST přebírá z HTTP jeho způsob přenosu dat pomocí UDP.\n    ",
+            "Value #6": "REST přebírá z HTTP jeho užívání cookie.\n    ",
+            "Value #7": "REST přebírá z HTTP jeho schopnost přenášet binární data.\n    ",
+            "Value #8": "Vašák Jakub     \n    "
+        },
+        {
+            "Value #1": "Webhosting\n    ",
+            "Value #2": "Jaký typ webhostingu poskytuje největší kontrolu nad serverem?\n    ",
+            "Value #3": "Dedicated hosting\n    ",
+            "Value #4": "VPS\n    ",
+            "Value #5": "Cloud hosting\n    ",
+            "Value #6": "Shared hosting\n    ",
+            "Value #7": "Reseller hosting\n    ",
+            "Value #8": "Bláha Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Který z níže popsaných frameworků se používá v technologii NodeJS?\n    ",
+            "Value #3": "Express\n    ",
+            "Value #4": "Flask\n    ",
+            "Value #5": "Luminus\n    ",
+            "Value #6": "Laravel\n    ",
+            "Value #7": "Nette\n    ",
+            "Value #8": "Mikeš Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Kdo stojí za PHP frameworkem Nette?\n    ",
+            "Value #3": "David Grudl\n    ",
+            "Value #4": "Linus Torvalds\n    ",
+            "Value #5": "Salvatore Sanfilippo\n    ",
+            "Value #6": "Google\n    ",
+            "Value #7": "Facebook\n    ",
+            "Value #8": "Mikeš Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jak se nazývá ekvivalent tabulky v MongoDB?\n    ",
+            "Value #3": "Kolekce\n    ",
+            "Value #4": "Databáze\n    ",
+            "Value #5": "Dokument\n    ",
+            "Value #6": "Objekt\n    ",
+            "Value #7": "Relace\n    ",
+            "Value #8": "Mikeš Vojtěch     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se označí jednořádkový komentář?\n    ",
+            "Value #3": "// Jednořádkový komentář\n    ",
+            "Value #4": "!— Jednořádkový komentář\n    ",
+            "Value #5": "/* Jednořádkový komentář */\n    ",
+            "Value #6": "! Jednořádkový komentář !\n    ",
+            "Value #7": "== Jednořádkový komentář ==\n    ",
+            "Value #8": "Hora Jakub     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký je špatný zápis proměnné v PHP?\n    ",
+            "Value #3": "$1name\n    ",
+            "Value #4": "$name\n    ",
+            "Value #5": "$NAME\n    ",
+            "Value #6": "$name1\n    ",
+            "Value #7": "$_name\n    ",
+            "Value #8": "Hora Jakub     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký je nepodporovaný datový typ v PHP?\n    ",
+            "Value #3": "complex\n    ",
+            "Value #4": "integer\n    ",
+            "Value #5": "float\n    ",
+            "Value #6": "array\n    ",
+            "Value #7": "object\n    ",
+            "Value #8": "Hora Jakub     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se označí jednořádkový komentář v PHP\n    ",
+            "Value #3": "# Jednořádkový komentář\n    ",
+            "Value #4": "! Jednořádkový komentář !\n    ",
+            "Value #5": "== Jednořádkový komentář ==\n    ",
+            "Value #6": "!— Jednořádkový komentář\n    ",
+            "Value #7": "/* Jednořádkový komentář */\n    ",
+            "Value #8": "Hora Jakub     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se zahajuje blok pro zachycení výjimek v PHP?\n    ",
+            "Value #3": "try\n    ",
+            "Value #4": "catch\n    ",
+            "Value #5": "thow\n    ",
+            "Value #6": "exception\n    ",
+            "Value #7": "handle\n    ",
+            "Value #8": "Hora Jakub     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se definuje nová třída v PHP?\n    ",
+            "Value #3": "class\n    ",
+            "Value #4": "function\n    ",
+            "Value #5": "nw\n    ",
+            "Value #6": "object\n    ",
+            "Value #7": "namespace\n    ",
+            "Value #8": "Rokos Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká funkce slouží k získání informací o proměnné?\n    ",
+            "Value #3": "gettype()\n    ",
+            "Value #4": "is_int()\n    ",
+            "Value #5": "get_class()\n    ",
+            "Value #6": "is_string()\n    ",
+            "Value #7": "is_array()\n    ",
+            "Value #8": "Rokos Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká\nfunkce slouží k odeslání http hlavičky v PHP?\n    ",
+            "Value #3": "header()\n    ",
+            "Value #4": "send_header()\n    ",
+            "Value #5": "send response()\n    ",
+            "Value #6": "header_send()\n    ",
+            "Value #7": "set_header()\n    ",
+            "Value #8": "Rokos Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká funkce slouží k zahájení session v PHP?\n    ",
+            "Value #3": "session_start()\n    ",
+            "Value #4": "start_session()\n    ",
+            "Value #5": "open_session()\n    ",
+            "Value #6": "begin_session()\n    ",
+            "Value #7": "init_session()\n    ",
+            "Value #8": "Rokos Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká funkce slouží k odeslání emailu v PHP?\n    ",
+            "Value #3": "mail()\n    ",
+            "Value #4": "sendmail()\n    ",
+            "Value #5": "email()\n    ",
+            "Value #6": "post()\n    ",
+            "Value #7": "compose()\n    ",
+            "Value #8": "Rokos Adam     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co je Laravel?\n    ",
+            "Value #3": "Laravel je open-source PHP framework pro tvorbu webových aplikací.\n    ",
+            "Value #4": "Laravel je proprietární PHP framework vlastněný společností Microsoft.\n    ",
+            "Value #5": "Laravel je programovací jazyk pro webové aplikace.\n    ",
+            "Value #6": "Laravel je databázový systém pro ukládání a správu dat.\n    ",
+            "Value #7": "Laravel je grafické uživatelské rozhraní pro tvorbu webových stránek.\n    ",
+            "Value #8": "Červený Jakub     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co je Eloquent ORM v Laravel frameworku?\n    ",
+            "Value #3": "Eloquent ORM je objektově-relační mapování pro práci s databázemi v Laravelu.\n    ",
+            "Value #4": "Eloquent ORM je nástroj pro psaní a spouštění unit testů v Laravelu.\n    ",
+            "Value #5": "Eloquent ORM je nástroj pro generování kódu v Laravelu.\n    ",
+            "Value #6": "Eloquent ORM je knihovna pro práci s frontendem webových aplikací v Laravelu.\n    ",
+            "Value #7": "Eloquent ORM je nástroj pro optimalizaci rychlosti načítání stránek v Laravelu.\n    ",
+            "Value #8": "Červený Jakub     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co je to migrace v Laravelu?\n    ",
+            "Value #3": "Migrace je proces vytváření databázových tabulek v Laravelu.\n    ",
+            "Value #4": "Migrace je proces aktualizace frameworku Laravel na nejnovější verzi.\n    ",
+            "Value #5": "Migrace je proces migrace webové aplikace z jiného frameworku na Laravel.\n    ",
+            "Value #6": "Migrace je proces konfigurace databáze pro Laravel.\n    ",
+            "Value #7": "Migrace je proces přidání nových funkcí do Laravelu.\n    ",
+            "Value #8": "Červený Jakub     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co je to Artisan v Laravelu?\n    ",
+            "Value #3": "Artisan je CLI nástroj pro správu webové aplikace v Laravelu.\n    ",
+            "Value #4": "Artisan je nástroj pro tvorbu animovaných efektů na webových stránkách v Laravelu.\n    ",
+            "Value #5": "Artisan je knihovna pro práci s JavaScriptem v Laravelu.\n    ",
+            "Value #6": "Artisan je nástroj pro generování testovacích dat v Laravelu.\n    ",
+            "Value #7": "Artisan je nástroj pro práci s CSS v Laravelu.\n    ",
+            "Value #8": "Červený Jakub     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Jaký je význam Model-View-Controller (MVC) architektury v Laravelu?\n    ",
+            "Value #3": "MVC je architektura pro oddělení datového modelu, prezentační vrstvy a řídicí logiky aplikace v Laravelu.\n    ",
+            "Value #4": "MVC je programovací jazyk používaný v Laravelu.\n    ",
+            "Value #5": "MVC je architektura pro vytváření grafického uživatelského rozhraní v Laravelu.\n    ",
+            "Value #6": "MVC je databázová architektura používaná v Laravelu.\n    ",
+            "Value #7": "MVC je nástroj pro zajištění bezpečnosti webové aplikace v Laravelu.\n    ",
+            "Value #8": "Červený Jakub     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Co je to Symfony?\n    ",
+            "Value #3": "PHP framework\n    ",
+            "Value #4": "Databázový systém\n    ",
+            "Value #5": "Šifrovací algoritmus\n    ",
+            "Value #6": "Optimalizační algoritmus zrychlující načítání stránky\n    ",
+            "Value #7": "Webový HTTP server\n    ",
+            "Value #8": "Šotek Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Který jazyk je používán ve frameworku .NET?\n    ",
+            "Value #3": "C#\n    ",
+            "Value #4": "PHP\n    ",
+            "Value #5": "Ruby\n    ",
+            "Value #6": "Python\n    ",
+            "Value #7": "JavaScript\n    ",
+            "Value #8": "Šotek Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým způsobem mohou webové aplikace ukládat data uživatele?\n    ",
+            "Value #3": "Do cookies\n    ",
+            "Value #4": "Do JavaScriptu\n    ",
+            "Value #5": "Do souborů na serveru\n    ",
+            "Value #6": "Do URL adres\n    ",
+            "Value #7": "Do adresářů v prohlížeči\n    ",
+            "Value #8": "Šotek Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka API?\n    ",
+            "Value #3": "Application Programming Interface\n    ",
+            "Value #4": "Advanced Programming Interface\n    ",
+            "Value #5": "Active Programming Interface\n    ",
+            "Value #6": "Action Programming Interface\n    ",
+            "Value #7": "Asynchronous Programming Interface\n    ",
+            "Value #8": "Šotek Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka CRUD v kontextu databázových systémů?\n    ",
+            "Value #3": "Create, Read, Update, Delete\n    ",
+            "Value #4": "Construct, Retrieve, Upgrade, Deliver\n    ",
+            "Value #5": "Create, Read, Update, Destroy\n    ",
+            "Value #6": "Configure, Review, Upgrade, Deliver\n    ",
+            "Value #7": "Cancel, Retrieve, Upgrade, Deliver\n    ",
+            "Value #8": "Šotek Michal     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co to je a k čemu slouží Google Analytics?\n    ",
+            "Value #3": "nástroj, který umožňuje sledovat a analyzovat návštěvnost webových stránek\n    ",
+            "Value #4": "metoda pro úpravu html kódu webové stránky\n    ",
+            "Value #5": "nástroj pro vytvoření prototypu webové stránky\n    ",
+            "Value #6": "aplikace pro úpravu webové stránky\n    ",
+            "Value #7": "nástroj pro sběr dat společnosti Google\n    ",
+            "Value #8": "Zdvořáček Petr     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co NEpatří mezi sledované údaje webových stránek v Google Analytics?\n    ",
+            "Value #3": "cena nákupu\n    ",
+            "Value #4": "návštěvnost\n    ",
+            "Value #5": "chování uživatele\n    ",
+            "Value #6": "data o akvizici\n    ",
+            "Value #7": "data o konverzi\n    ",
+            "Value #8": "Zdvořáček Petr     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Jak funguje proces služby Google Analytics?\n    ",
+            "Value #3": "vložení kódu html -> sběr dat -> zpracování dat -> reporting -> analýza a optimalizace\n    ",
+            "Value #4": "zpracování dat -> optimalizace\n    ",
+            "Value #5": "sběr dat -> optimalizace -> analýza\n    ",
+            "Value #6": "platba -> analýza -> sběr dat\n    ",
+            "Value #7": "optimalizace -> analýza -> platba\n    ",
+            "Value #8": "Zdvořáček Petr     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jak se jmenuje webový server vytvořený společností Apache?\n    ",
+            "Value #3": "Apache HTTP Server\n    ",
+            "Value #4": "Apache Web Server\n    ",
+            "Value #5": "Apache Cloud Server\n    ",
+            "Value #6": "Apache File Server\n    ",
+            "Value #7": "Apache Email Server\n    ",
+            "Value #8": "Marks Ladislav     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jak se nazývá protokol používaný pro přenos souborů po internetu?\n    ",
+            "Value #3": "FTP\n    ",
+            "Value #4": "SMTP\n    ",
+            "Value #5": "POP3\n    ",
+            "Value #6": "HTTP\n    ",
+            "Value #7": "DNS\n    ",
+            "Value #8": "Marks Ladislav     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co znamená zkratka SERP?\n    ",
+            "Value #3": "Search Engine Results Page\n    ",
+            "Value #4": "Search Engine Redesign Product\n    ",
+            "Value #5": "Search Engine Remake Practices\n    ",
+            "Value #6": "Source Element Results Page\n    ",
+            "Value #7": "Sold Entity Resale of Products\n    ",
+            "Value #8": "Zdvořáček Petr     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jak se jmenuje open-source webový framework pro programovací jazyk Python?\n    ",
+            "Value #3": "Django\n    ",
+            "Value #4": "Ruby on Rails\n    ",
+            "Value #5": "Node.js\n    ",
+            "Value #6": "Laravel\n    ",
+            "Value #7": "ASP.NET\n    ",
+            "Value #8": "Marks Ladislav     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým nástrojem lze vytvořit automatizované testy pro webové aplikace?\n    ",
+            "Value #3": "Selenium\n    ",
+            "Value #4": "Microsoft Office\n    ",
+            "Value #5": "Adobe Acrobat\n    ",
+            "Value #6": "Google Analytics\n    ",
+            "Value #7": "Apache Tests\n    ",
+            "Value #8": "Marks Ladislav     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "S jakým nástrojem lze propojit Google Analytics?\n    ",
+            "Value #3": "Google Search Console\n    ",
+            "Value #4": "Google Keep\n    ",
+            "Value #5": "Microsoft Azure\n    ",
+            "Value #6": "Google Photos\n    ",
+            "Value #7": "Microsoft Office\n    ",
+            "Value #8": "Zdvořáček Petr     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaké označení má proces virtualizace operačního systému?\n    ",
+            "Value #3": "kontejner\n    ",
+            "Value #4": "kernel\n    ",
+            "Value #5": "middleware\n    ",
+            "Value #6": "framework\n    ",
+            "Value #7": "hypervisor\n    ",
+            "Value #8": "Marks Ladislav     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Co je to Nette DI ?\n    ",
+            "Value #3": "Kontejner pro správu závislostí\n    ",
+            "Value #4": "Nástroj pro tvorbu formulářů\n    ",
+            "Value #5": "JavaScript knihovna\n    ",
+            "Value #6": "Vrstva pro komunikaci s Databází\n    ",
+            "Value #7": "Nette Development Index\n    ",
+            "Value #8": "Velebný Jan     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Co je to Nette Utils ?\n    ",
+            "Value #3": "Kolekce nástrojů pro práci s řetězci, soubory, datem a dalšími běžnými operacemi\n    ",
+            "Value #4": "Kolekce šablon pro rychlou tvorbu webových stránek\n    ",
+            "Value #5": "Kolekce pluginů pro práci s databází\n    ",
+            "Value #6": "Kolekce grafických prvků pro tvorbu uživatelského rozhraní\n    ",
+            "Value #7": "Kolekce nástrojů pro generování náhodného textu\n    ",
+            "Value #8": "Velebný Jan     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jak se v Nette frameworku nazývají speciální metody, které se volají při startu aplikace?\n    ",
+            "Value #3": "Bootstrap metody\n    ",
+            "Value #4": "Startup metody\n    ",
+            "Value #5": "Init metody\n    ",
+            "Value #6": "Launch metody\n    ",
+            "Value #7": "Lunch metody\n    ",
+            "Value #8": "Velebný Jan     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Co je to Tracy v rámci frameworku Nette ?\n    ",
+            "Value #3": "Jedná se o nástroj pro zobrazování a ladění chyb a výjimek v kódu\n    ",
+            "Value #4": "Jedná se o funkci pro načítání dat z externích zdrojů\n    ",
+            "Value #5": "Jedná se o knihovnu pro tvorbu grafických rozhraní\n    ",
+            "Value #6": "Jedná se o vrstvu která komunikuje s databází\n    ",
+            "Value #7": "Jedná se o virtuálního asistenta, jež napomáhá při vývoji aplikace\n    ",
+            "Value #8": "Velebný Jan     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jak vznikl název frameworku Nette ?\n    ",
+            "Value #3": "Autor ve sprše uzřel láhev značky Gillette, natočenou tak, že bylo vidět pouze llette.\n    ",
+            "Value #4": "Inspirací bylo město Nett v Mikronésii\n    ",
+            "Value #5": "Jedná se o vznešeně znějící parafrázi na slovo Net\n    ",
+            "Value #6": "Framework se původně měl jmenovat Nettle, ale při zápisu došlo k překlepu, který už se usadil\n    ",
+            "Value #7": "Jméno bylo inspirováno Německou řekou se stejným názvem\n    ",
+            "Value #8": "Velebný Jan     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Funkcionální programování lze definovat jako:\n    ",
+            "Value #3": "Deklarativní programovací paradigma, které chápe výpočet jako vyhodnocení matematických funkcí.\n    ",
+            "Value #4": "Styl programování, který umožňuje pouze použití čísel a matematických operací.\n    ",
+            "Value #5": "Nástroj používaný ke zvýšení rychlosti a efektivity prohlížení internetu.\n    ",
+            "Value #6": "Typ počítačového viru, který infikuje pouze určité typy operačních systémů.\n    ",
+            "Value #7": "Programovací jazyk, který je užíván výhradně pro vývoj her.\n    ",
+            "Value #8": "Bobková Lucie     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Který z uvedených protokolů používá třícestný handshake?\n    ",
+            "Value #3": "TCP\n    ",
+            "Value #4": "UDP\n    ",
+            "Value #5": "DNS\n    ",
+            "Value #6": "RTP\n    ",
+            "Value #7": "SNMP\n    ",
+            "Value #8": "Bobková Lucie     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to kešování?\n    ",
+            "Value #3": "Je to princip využívání mezipaměti pro dočasné uchování dat. \n    ",
+            "Value #4": "Je to metoda, kterou používají hackeři k ukládání ukradených dat z cílového počítače na svůj vlastní server.\n    ",
+            "Value #5": "Je to proces, při kterém jsou webové stránky ukládány na různých serverech po celém světě, aby se zlepšila jejich dostupnost pro uživatele z různých zemí.\n    ",
+            "Value #6": "Je to technologie, která umožňuje webovým prohlížečům zobrazovat obsah stránek, aniž by bylo nutné používat internetové připojení.\n    ",
+            "Value #7": "Je to proces, kdy se internetové stránky ukládají na fyzických nosičích.\n    ",
+            "Value #8": "Bobková Lucie     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "K čemu se využívá kešování?\n    ",
+            "Value #3": "Využívá se pro urychlení obsluhy a snížení zatížení serveru.\n    ",
+            "Value #4": "Využívá se ke snižování kvality obrázků a videí na webových stránkách.\n    ",
+            "Value #5": "Využívá se ke zvyšování počtu reklam na webových stránkách a vytváření dalších příjmů pro majitele webových stránek.\n    ",
+            "Value #6": "Využívá se k ukládání škodlivých virů a malware na webové stránky.\n    ",
+            "Value #7": "Využívá se k ukládání osobních dat uživatelů na webových stránkách bez jejich souhlasu.\n    ",
+            "Value #8": "Bobková Lucie     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Který z uvedených protokolů se používá u “best-effort delivery” služeb, jako jsou například streaming nebo VoIP?\n    ",
+            "Value #3": "UDP\n    ",
+            "Value #4": "HTTP\n    ",
+            "Value #5": "FTP\n    ",
+            "Value #6": "SMTP\n    ",
+            "Value #7": "Telnet\n    ",
+            "Value #8": "Bobková Lucie     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký je zápis regulárního výrazu pro vyhledání právě jednoho malého nebo velkého písmena?\n    ",
+            "Value #3": "^[a-zA-Z]$\n    ",
+            "Value #4": "^[a-zA-Z]\n    ",
+            "Value #5": "^[a-zA-Z]+$\n    ",
+            "Value #6": "?[a-zA-Z]$\n    ",
+            "Value #7": "[a-zA-Z]$\n    ",
+            "Value #8": "Šenk Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co určuje následující regulární výraz ^[a-zA-Z][0-9a-zA-Z]{6,}$\n    ",
+            "Value #3": "První znak je písmeno, následně písmena nebo číslice, minimálně 7 znaků\n    ",
+            "Value #4": "První znak je písmeno, následně číslice, minimálně 7 znaků\n    ",
+            "Value #5": "První znak je písmeno nebo číslo, minimálně 6 znaků\n    ",
+            "Value #6": "První znak je písmeno nebo číslo, minimálně 7 znaků\n    ",
+            "Value #7": "Pouze písmena, kde je minimálně 6 znaků\n    ",
+            "Value #8": "Šenk Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka DNS?\n    ",
+            "Value #3": "Domain Name System\n    ",
+            "Value #4": "Data Network Service\n    ",
+            "Value #5": "Directory Naming Service\n    ",
+            "Value #6": "Dynamic Name System\n    ",
+            "Value #7": "Database Name System\n    ",
+            "Value #8": "Šenk Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "K čemu slouží Domain Name System?\n    ",
+            "Value #3": "K překladu doménových jmen na IP adresy \n    ",
+            "Value #4": "K hostování webových stránek\n    ",
+            "Value #5": "K zabezpečení přenosu dat v počítačových sítích \n    ",
+            "Value #6": "K ukládání a správě dat \n    ",
+            "Value #7": "K řízení a správě přístupových práv v počítačové síti\n    ",
+            "Value #8": "Šenk Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "K čemu slouží WebSocket?\n    ",
+            "Value #3": "Umožňuje komunikaci mezi klientem a serverem v reálném čase\n    ",
+            "Value #4": "Umožňuje přístup k databázím na serveru\n    ",
+            "Value #5": "Slouží k vytváření animovaných efektů na webové stránce\n    ",
+            "Value #6": "Umožňuje ukládání souborů na serveru\n    ",
+            "Value #7": "Slouží k vyhledávání informací na internetu\n    ",
+            "Value #8": "Šenk Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "V regulárních výrazech jaký znak se používá pro ignorování funkce metaznaků (tzv. Escape character)\n    ",
+            "Value #3": "\\\n    ",
+            "Value #4": "|\n    ",
+            "Value #5": "\\\\\n    ",
+            "Value #6": "^\n    ",
+            "Value #7": "+\n    ",
+            "Value #8": "Pecháček Ondřej     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "V kontextu SQL jazyků co znamená zkratka DDL\n    ",
+            "Value #3": "Data definition language\n    ",
+            "Value #4": "Data demolition language\n    ",
+            "Value #5": "Data destruction language\n    ",
+            "Value #6": "Data control language\n    ",
+            "Value #7": "Data deletion language\n    ",
+            "Value #8": "Pecháček Ondřej     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "SQL dotaz CREATE patři do jakého z podjazyků SQL\n    ",
+            "Value #3": "Data definition language\n    ",
+            "Value #4": "Data definition language\n    ",
+            "Value #5": "Data control language\n    ",
+            "Value #6": "Data procedural language\n    ",
+            "Value #7": "Data transaction language\n    ",
+            "Value #8": "Pecháček Ondřej     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "V kontextu SQL co dělá COMMIT\n    ",
+            "Value #3": "Ukončí transakci a uloží změny\n    ",
+            "Value #4": "Ukončí transakci bez uložení změn\n    ",
+            "Value #5": "Začne novou transakci\n    ",
+            "Value #6": "Vytvoří savepoint\n    ",
+            "Value #7": "Vrátí transakci k poslednímu savepointu\n    ",
+            "Value #8": "Pecháček Ondřej     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "V jazyce PHP co znamená operátor &&\n    ",
+            "Value #3": "logický součin (AND)\n    ",
+            "Value #4": "logický součet (OR)\n    ",
+            "Value #5": "logická negace\n    ",
+            "Value #6": "Exclusive OR (XOR)\n    ",
+            "Value #7": "rovnost\n    ",
+            "Value #8": "Pecháček Ondřej     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka RDBMS?\n    ",
+            "Value #3": "Relational Database Management System\n    ",
+            "Value #4": "Random Database Management System\n    ",
+            "Value #5": "Real-Time Database Management System\n    ",
+            "Value #6": "Reliable Database Management System\n    ",
+            "Value #7": "Resource Database Management System\n    ",
+            "Value #8": "Vacula Lukáš     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Která z těchto databází patří mezi databáze NoSQL?\n    ",
+            "Value #3": "MongoDB\n    ",
+            "Value #4": "MySQL\n    ",
+            "Value #5": "PostgreSQL\n    ",
+            "Value #6": "SQL Server\n    ",
+            "Value #7": "Oracle\n    ",
+            "Value #8": "Vacula Lukáš     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Která z možností je PHP framework?\n    ",
+            "Value #3": "Nette\n    ",
+            "Value #4": "Django\n    ",
+            "Value #5": "Next\n    ",
+            "Value #6": "Vue\n    ",
+            "Value #7": "Angular\n    ",
+            "Value #8": "Vacula Lukáš     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Který z následujících faktorů je důležitý pro SEO?\n    ",
+            "Value #3": "Vysoce kvalitní a relevantní obsah\n    ",
+            "Value #4": "Nápaditý design webových stránek\n    ",
+            "Value #5": "Vysoký počet odchozích odkazů\n    ",
+            "Value #6": "Krátký název domény\n    ",
+            "Value #7": "Rychlé načítání stránek\n    ",
+            "Value #8": "Vacula Lukáš     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Která z následujících možností je charakteristická pro Web 2.0?\n    ",
+            "Value #3": "Obsah vytvářený uživateli a interakce se sociálními médii.\n    ",
+            "Value #4": "Statické webové stránky s omezenou interakcí uživatele.\n    ",
+            "Value #5": "Jednosměrná komunikace mezi majiteli webových stránek a uživateli.\n    ",
+            "Value #6": "Minimální použití multimediálních prvků.\n    ",
+            "Value #7": "Integrace s technologiemi virtuální reality.\n    ",
+            "Value #8": "Vacula Lukáš     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Pomocí kterého příkazu lze v GITu zobrazit změny uvnítř souborů?\n    ",
+            "Value #3": "git diff\n    ",
+            "Value #4": "git files\n    ",
+            "Value #5": "git changed\n    ",
+            "Value #6": "git pull\n    ",
+            "Value #7": "git stash\n    ",
+            "Value #8": "Pešout Štěpán     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký je význam UNION operátoru v SQL?\n    ",
+            "Value #3": "Spojení výsledků více různých selectů\n    ",
+            "Value #4": "Výpis propojení z jedné tabulky do ostatních tabulek (cizí klíče)\n    ",
+            "Value #5": "Jedná se o ekvivalent znaku * (hvězdička)\n    ",
+            "Value #6": "Spojení dvou podmínek výběru (za WHERE)\n    ",
+            "Value #7": "Výběr pouze unikátních výsledků (bez opakování)\n    ",
+            "Value #8": "Pešout Štěpán     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "K čemu je v PHP funkce s názvem \"define\"?\n    ",
+            "Value #3": "Vytváří konstanty\n    ",
+            "Value #4": "Vytváří proměnné\n    ",
+            "Value #5": "Vypíše definované proměnné a konstanty\n    ",
+            "Value #6": "Definuje typy tříd\n    ",
+            "Value #7": "Definuje SQL dotazy\n    ",
+            "Value #8": "Pešout Štěpán     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jaký je výchozí šablonovací systém pro Nette?\n    ",
+            "Value #3": "Latte\n    ",
+            "Value #4": "Twig\n    ",
+            "Value #5": "Smarty\n    ",
+            "Value #6": "Plates\n    ",
+            "Value #7": "Mustache\n    ",
+            "Value #8": "Pešout Štěpán     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jaká je výchozí IP localhostu? \n    ",
+            "Value #3": "127.0.0.1\n    ",
+            "Value #4": "192.168.0.1\n    ",
+            "Value #5": "1.1.1.0\n    ",
+            "Value #6": "255.255.255.0\n    ",
+            "Value #7": "80.80.80.0\n    ",
+            "Value #8": "Pešout Štěpán     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "K čemu je v PHP \"include\"?\n    ",
+            "Value #3": "Slouží k načtení a spuštění kódu z jiného souboru\n    ",
+            "Value #4": "Slouží k výpisu obsahu souboru do konzole\n    ",
+            "Value #5": "Slouží k vytvoření nového PHP skriptu\n    ",
+            "Value #6": "Slouží k vytvoření nového souboru na serveru\n    ",
+            "Value #7": "Slouží k vložení externího bash (nebo perl) skriptu\n    ",
+            "Value #8": "Pešout Štěpán     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaké je správné ukončení php skriptu ?\n    ",
+            "Value #3": ";\n    ",
+            "Value #4": ".\n    ",
+            "Value #5": ":\n    ",
+            "Value #6": "prazdny radek\n    ",
+            "Value #7": "  < /php>\n    ",
+            "Value #8": "Mader Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jak se definuje proměnná v PHP? \n    ",
+            "Value #3": "$a \n    ",
+            "Value #4": "#a\n    ",
+            "Value #5": "let a\n    ",
+            "Value #6": "var a\n    ",
+            "Value #7": "a \n    ",
+            "Value #8": "Jakl Pavel     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Které z následujících funkcí vrací určitou část Array ?\n    ",
+            "Value #3": "array_slice()\n    ",
+            "Value #4": "array_search()\n    ",
+            "Value #5": "array_fill()\n    ",
+            "Value #6": "array_merge()\n    ",
+            "Value #7": "array_splice()\n    ",
+            "Value #8": "Mader Adam     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co je to Docker Hub?\n    ",
+            "Value #3": "Místo pro sdílení a ukládání Docker image\n    ",
+            "Value #4": "Nástroj pro vytváření Docker kontejnerů\n    ",
+            "Value #5": "Grafické rozhraní pro správu Docker kontejnerů\n    ",
+            "Value #6": "Nástroj pro automatizované testování Docker kontejnerů\n    ",
+            "Value #7": "Nástroj pro správu verzí Docker kontejnerů\n    ",
+            "Value #8": "Krátoška Michal     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "K čemu slouží SEO ?\n    ",
+            "Value #3": "K získání vyšší návštěvnosti webu pomocí bezplatných, organických nebo přirozených výsledků ve vyhledávání\n    ",
+            "Value #4": "K získání vyšší návštěvnosti webu pomocí placených nástrojů, které zaručují vyšší návštěvnost stránek\n    ",
+            "Value #5": "K užití placených reklamních postupů, které pomáhají propagovat webové stránky\n    ",
+            "Value #6": "Zaměřuje na využívání placených reklam k získání předních pozic v SERP\n    ",
+            "Value #7": "Jedná se o model digitální reklamy, kdy inzerent platí poplatek za každé kliknutí na jeho reklamu\n    ",
+            "Value #8": "Mader Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Co dělá funkce \"explode()\" v PHP?\n    ",
+            "Value #3": "Rozdělí řetězec na pole podle zadaného oddělovače\n    ",
+            "Value #4": "Sloučí pole do jednoho řetězce s oddělovačem\n    ",
+            "Value #5": "Vrátí délku řetězce\n    ",
+            "Value #6": "Nahrazuje všechny výskyty určitého podřetězce v řetězci jiným podřetězcem\n    ",
+            "Value #7": "Zruší proměnnou\n    ",
+            "Value #8": "Havránek Vít     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jak se jmenují koncové body, které vystavují konkrétní data při vytvoření API?\n    ",
+            "Value #3": "endpoint\n    ",
+            "Value #4": "datapoint\n    ",
+            "Value #5": "rawpoint\n    ",
+            "Value #6": "getpoint\n    ",
+            "Value #7": "záleží na programátorovi\n    ",
+            "Value #8": "Jakl Pavel     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká funkce vytvoří hash pro heslo? \n    ",
+            "Value #3": "password_hash()\n    ",
+            "Value #4": "hash()\n    ",
+            "Value #5": "hash_password()\n    ",
+            "Value #6": "pwd_hash()\n    ",
+            "Value #7": "p_hash()\n    ",
+            "Value #8": "Jakl Pavel     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaké jsou základní datové typy v PHP?\n    ",
+            "Value #3": "string, integer, boolean, null, float, array, object\n    ",
+            "Value #4": "text, number, true/false, empty, decimal, arayist, \n    ",
+            "Value #5": "string, int, boolean, empty, float, group, instance\n    ",
+            "Value #6": "text, integer, bool, none, decimal, set, class\n    ",
+            "Value #7": "null, true/false, decimal, integer, float, varchar\n    ",
+            "Value #8": "Havránek Vít     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Jakým způsobem lze zobrazit seznam všech dostupných Docker image?\n    ",
+            "Value #3": "Pomocí příkazu \"docker images\"\n    ",
+            "Value #4": "Pomocí příkazu \"docker list\"\n    ",
+            "Value #5": "Pomocí příkazu \"docker show\"\n    ",
+            "Value #6": "Pomocí příkazu \"docker inventory\"\n    ",
+            "Value #7": "Pomocí příkazu \"docker all\"\n    ",
+            "Value #8": "Krátoška Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Český programátor, David Grudl, vytvořil framework pro PHP, který? \n    ",
+            "Value #3": "Nette\n    ",
+            "Value #4": "Symfony \n    ",
+            "Value #5": "Laravel \n    ",
+            "Value #6": "GoLang\n    ",
+            "Value #7": "Drupal\n    ",
+            "Value #8": "Jakl Pavel     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Která z následujících je správná koncovka pro výchozí soubor php ?\n    ",
+            "Value #3": ".php\n    ",
+            "Value #4": ".ph\n    ",
+            "Value #5": ".pp\n    ",
+            "Value #6": ".htmlphp\n    ",
+            "Value #7": ".phphtml\n    ",
+            "Value #8": "Mader Adam     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Co jsou to jmenné prostory (namespace) v PHP?\n    ",
+            "Value #3": "Způsob organizace tříd, funkcí a proměnných, aby se zabránilo konfliktům jmen\n    ",
+            "Value #4": "Funkce pro ukládání a získávání cookies.\n    ",
+            "Value #5": "Speciální třída pro práci s XML daty.\n    ",
+            "Value #6": "Typ proměnné, který automaticky určuje datový typ na základě přiřazené hodnoty.\n    ",
+            "Value #7": "Prostor obsahující základní nastavení webové aplikace.\n    ",
+            "Value #8": "Havránek Vít     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Jaký protokol je používán pro komunikaci mezi klientem a serverem pomocí WebSocketu?\n    ",
+            "Value #3": "WebSocket\n    ",
+            "Value #4": "HTTP\n    ",
+            "Value #5": "SMTP\n    ",
+            "Value #6": "FTP\n    ",
+            "Value #7": "UDP\n    ",
+            "Value #8": "Krátoška Michal     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Jaký bude výstup nasledujícího kódu:<?php\n    $x = 10;\n    $y = \"10\";\n    if($x == $y) {\n        echo \"Rovnají se\";\n    }\n    else {\n        echo \"Nerovnají se\";\n    }\n?>\n    ",
+            "Value #3": "Rovnají se\n    ",
+            "Value #4": "Nerovnají se\n    ",
+            "Value #5": "Vypíše se chybová hláška\n    ",
+            "Value #6": "Kód bude v nekonečné smyčce\n    ",
+            "Value #7": "Nic se nestane \n    ",
+            "Value #8": "Jakl Pavel     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Který z následujících symbolů je znakem nového řádku ?\n    ",
+            "Value #3": "\\n\n    ",
+            "Value #4": "/n\n    ",
+            "Value #5": "/r\n    ",
+            "Value #6": " < br>\n    ",
+            "Value #7": "\\r\n    ",
+            "Value #8": "Mader Adam     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Kterým z následujících parametrů určí subprotocol websocketu pomocí, kterého se bude kominikovat?\n    ",
+            "Value #3": "Sec-WebSocket-Protocol\n    ",
+            "Value #4": "Sec-WebSocket-Extensions\n    ",
+            "Value #5": "Sec-WebSocket-Version\n    ",
+            "Value #6": "Sec-WebSocket-Accept\n    ",
+            "Value #7": "Sec-WebSocket-Subprotocol\n    ",
+            "Value #8": "Krátoška Michal     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co jsou to klíčová slova (keywords) a jakou roli hrají v SEO?\n    ",
+            "Value #3": "Jsou slova, která mají být použita v obsahu stránek webového webu pro zlepšení viditelnosti výsledků vyhledávání.\n    ",
+            "Value #4": "Jsou slova, která mají být použita na každé stránce webového webu pro zvýšení jejího hodnocení vyhledávači.\n    ",
+            "Value #5": " Jsou slova, která mají být použita v titulcích a popiscích obrázků na stránkách pro zlepšení viditelnosti výsledků vyhledávání.\n    ",
+            "Value #6": "Jsou slova, která nemají v dnešní době v SEO žádnou váhu a nemají žádný vliv na hodnocení stránek vyhledávači.\n    ",
+            "Value #7": "Jsou slova, které slouží pro popis obsahu webové stránky pro prohlížeče.\n    ",
+            "Value #8": "Havránek Vít     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Jakým způsobem lze v Dockeru změnit nastavení kontejneru?\n    ",
+            "Value #3": "Pomocí příkazu \"docker update\"\n    ",
+            "Value #4": "Pomocí příkazu \"docker modify\"\n    ",
+            "Value #5": " Pomocí příkazu \"docker configure\"\n    ",
+            "Value #6": "Pomocí příkazu \"docker change\"\n    ",
+            "Value #7": "Pomocí příkazu \"docker modify-container\"\n    ",
+            "Value #8": "Krátoška Michal     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co je to XML sitemap v rámci SEO?\n    ",
+            "Value #3": "Je to soubor XML, který obsahuje seznam všech stránek na webu, které mají být indexovány vyhledávači.\n    ",
+            "Value #4": "Je to soubor XML, který obsahuje metadata o stránkách na webu a pomáhá vyhledávačům při indexaci stránek.\n    ",
+            "Value #5": "Je to soubor XML, který slouží pro získávání zpětných odkazů na stránky a zvyšuje autoritu webu.\n    ",
+            "Value #6": " Je to soubor XML, který obsahuje kód pro získávání vyhledávačů a zlepšuje rychlost načítání stránek.\n    ",
+            "Value #7": "Je to soubor XML, které slouží k dokumentaci vývoje webové stránky.\n    ",
+            "Value #8": "Havránek Vít     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Pomocí kterého klíčového slova se v PHP ukončuje funkce a vyvolává její návratová hodnota?\n    ",
+            "Value #3": "return\n    ",
+            "Value #4": "echo\n    ",
+            "Value #5": "get\n    ",
+            "Value #6": "print_r\n    ",
+            "Value #7": "show\n    ",
+            "Value #8": "Mašata David     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Kolik datových typů podporuje jazyk PHP?\n    ",
+            "Value #3": "8\n    ",
+            "Value #4": "3\n    ",
+            "Value #5": "5\n    ",
+            "Value #6": "6\n    ",
+            "Value #7": "7\n    ",
+            "Value #8": "Mašata David     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Co NEPATŘÍ mezi tzv. PHP loops (smyčky)?\n    ",
+            "Value #3": "cycle\n    ",
+            "Value #4": "while\n    ",
+            "Value #5": "do ... while\n    ",
+            "Value #6": "for\n    ",
+            "Value #7": "foreach\n    ",
+            "Value #8": "Mašata David     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Pomocí které PHP funkce lze přesunout nahraný soubor do nového umístění?\n    ",
+            "Value #3": "move_uploaded_file()\n    ",
+            "Value #4": "upload()\n    ",
+            "Value #5": "change_target()\n    ",
+            "Value #6": "switch()\n    ",
+            "Value #7": "is_file()\n    ",
+            "Value #8": "Mašata David     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Pomocí kterého komunikačního protokolu se lze připojit ke školnímu serveru v rámci tohoto předmětu?\n    ",
+            "Value #3": "SFTP\n    ",
+            "Value #4": "FTP\n    ",
+            "Value #5": "SCP\n    ",
+            "Value #6": "WebDAV\n    ",
+            "Value #7": "Amazon S3\n    ",
+            "Value #8": "Mašata David     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Který identifikátor označuje třídu obsahující všechny tisknutelné znaky kromě mezery?\n    ",
+            "Value #3": "graph\n    ",
+            "Value #4": "alnum\n    ",
+            "Value #5": "alpha\n    ",
+            "Value #6": "print\n    ",
+            "Value #7": "cntrl\n    ",
+            "Value #8": "Krčmářová Linda     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Kdo zavedl výraz Web 2.0?\n    ",
+            "Value #3": "Darcy DiNucci\n    ",
+            "Value #4": "Google\n    ",
+            "Value #5": "Tim O'Reilly\n    ",
+            "Value #6": "Microsoft\n    ",
+            "Value #7": "Tim Berners-Lee\n    ",
+            "Value #8": "Krčmářová Linda     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Kdy byl poprvé použit výraz Web 2.0?\n    ",
+            "Value #3": "1999\n    ",
+            "Value #4": "1998\n    ",
+            "Value #5": "1997\n    ",
+            "Value #6": "1996\n    ",
+            "Value #7": "2000\n    ",
+            "Value #8": "Krčmářová Linda     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená pojem \"server-side rendering\" ?\n    ",
+            "Value #3": "Zpracovávání na straně serveru\n    ",
+            "Value #4": "Zpracovávání na straně klienta\n    ",
+            "Value #5": "Komunikace s databází\n    ",
+            "Value #6": "Grafické rozhraní\n    ",
+            "Value #7": "Backend framework\n    ",
+            "Value #8": "Flodr Michal     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co znamená pojem \"serverless architektura\" ? \n    ",
+            "Value #3": "Architektura, kde se provozují aplikace bez nutnosti správy serveru\n    ",
+            "Value #4": "Architektura, kde se provozují aplikace na klientovi\n    ",
+            "Value #5": "Architektura, kde se provozují aplikace na serveru\n    ",
+            "Value #6": "Architektura, kde se provozují aplikace bez nutnosti správy databáze\n    ",
+            "Value #7": "Architektura, kde se provozují aplikace bez nutnosti správy frontendu\n    ",
+            "Value #8": "Flodr Michal     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "K čemu slouží server-sided skriptování?\n    ",
+            "Value #3": "K automatizaci procesů na straně serveru\n    ",
+            "Value #4": "K vytváření grafického rozhraní\n    ",
+            "Value #5": "K tvorbě frontendu\n    ",
+            "Value #6": "K testování aplikací\n    ",
+            "Value #7": "K přístupu k databázi\n    ",
+            "Value #8": "Flodr Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená výraz \"user-generated content\" a jaký je jeho význam pro Web 2.0?\n    ",
+            "Value #3": "User generated content je obsah, který tvoří samotní uživatelé.\n    ",
+            "Value #4": "User generated content je obsah, který je tvořen pomocí open-source technologií.\n    ",
+            "Value #5": "User generated content je obsah, který je tvořen pomocí AI.\n    ",
+            "Value #6": "User generated content je obsah, který tvoří marketingový specialisté.\n    ",
+            "Value #7": "User generated content je obsah, který je vytvářen výhradě v rámci intranetu firem.\n    ",
+            "Value #8": "Flodr Michal     \n    "
+        },
+        {
+            "Value #1": "Web 2.0\n    ",
+            "Value #2": "Co je to \"mashup\" \n    ",
+            "Value #3": "Kombinace dat z vícera zdrojů\n    ",
+            "Value #4": "Webová stránka s vícero odkazy\n    ",
+            "Value #5": "Skládání obsahu na základě statistických postupů\n    ",
+            "Value #6": "Technologie pro zobrazování videa\n    ",
+            "Value #7": "Způsob uživatelského hlasování\n    ",
+            "Value #8": "Flodr Michal     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jakým způsobem mohou proměnné v PHP začínat?\n    ",
+            "Value #3": "písmenem nebo podtržítkem (_), následovanými libovolným počtem písmen, číslic nebo podtržítek\n    ",
+            "Value #4": "pouze písmenem\n    ",
+            "Value #5": "pouze číslem\n    ",
+            "Value #6": "pouze podtržítkem\n    ",
+            "Value #7": "znakem lambda\n    ",
+            "Value #8": "Olžbut David     \n    "
+        },
+        {
+            "Value #1": "Nette\n    ",
+            "Value #2": "Jaký populární framework v PHP je velmi blízký framewroku nette?\n    ",
+            "Value #3": "Symfony\n    ",
+            "Value #4": "Wagtail\n    ",
+            "Value #5": "FastAPI\n    ",
+            "Value #6": "Django\n    ",
+            "Value #7": "Flask\n    ",
+            "Value #8": "Olžbut David     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Populární architektura webových aplikací, kdy od sebe oddělíme prezentační, logickou a databázovou část se jmenuje:\n    ",
+            "Value #3": "třívrstvá architektura (model-view-controller)\n    ",
+            "Value #4": "LAMP (Linux, Apache, MySQL, PHP)\n    ",
+            "Value #5": "dvouvrstvá architektura: frontend a backend\n    ",
+            "Value #6": "XAMPP (X-platform, Apache, MySQL, PHP, PERL)\n    ",
+            "Value #7": "mikroslužby\n    ",
+            "Value #8": "Olžbut David     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Pod jakými porty se nejčastěji přistupuje k webovému serveru z prohlížeče?\n    ",
+            "Value #3": "80 nebo 443\n    ",
+            "Value #4": "20 nebo 21 \n    ",
+            "Value #5": "88 nebo 8888\n    ",
+            "Value #6": "23 nebo 96\n    ",
+            "Value #7": "8000 nebo 8080\n    ",
+            "Value #8": "Olžbut David     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jaký port se používá pro bezpečnou komunikaci s webovým serverem?\n    ",
+            "Value #3": "443\n    ",
+            "Value #4": "80\n    ",
+            "Value #5": "8080\n    ",
+            "Value #6": "8888\n    ",
+            "Value #7": "8000\n    ",
+            "Value #8": "Olžbut David     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaká funkce v PHP slouží k přidání prvku do pole?\n    ",
+            "Value #3": "array_push()\n    ",
+            "Value #4": "push()\n    ",
+            "Value #5": "add_element()\n    ",
+            "Value #6": "append()\n    ",
+            "Value #7": "insert()\n    ",
+            "Value #8": "Olžbut David     \n    "
+        },
+        {
+            "Value #1": "PHP\n    ",
+            "Value #2": "Jaký typ jazyka je PHP?\n    ",
+            "Value #3": "PHP je interpretovaný skriptovací jazyk\n    ",
+            "Value #4": "PHP je kompilovaný jazyk\n    ",
+            "Value #5": "PHP je objektově orientovaný jazyk\n    ",
+            "Value #6": "PHP je staticky typovaný jazyk\n    ",
+            "Value #7": "PHP je interpretovaný kompilovaný jazyk\n    ",
+            "Value #8": "Olžbut David     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka Saas?\n    ",
+            "Value #3": "Software as a Service\n    ",
+            "Value #4": "Serverless Architecture as a Service\n    ",
+            "Value #5": "System Administration and Support\n    ",
+            "Value #6": "Secure Access and Authorization Service\n    ",
+            "Value #7": "Storage and Availability as a Service\n    ",
+            "Value #8": "Štefek Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka REST?\n    ",
+            "Value #3": "Representational State Transfer\n    ",
+            "Value #4": "Real-time Event Streaming Technology\n    ",
+            "Value #5": "Remote Execution and Scripting Technology\n    ",
+            "Value #6": "Reliable Encryption and Security Technology\n    ",
+            "Value #7": " Resourceful Expressive Stateful Transactions\n    ",
+            "Value #8": "Štefek Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaký je rozdíl mezi autentizací a autorizací?\n    ",
+            "Value #3": "Autentizace se zaměřuje na ověření totožnosti uživatelů, zatímco autorizace kontroluje, zda mají uživatelé oprávnění k provedení konkrétní akce v aplikaci\n    ",
+            "Value #4": " Autentizace zajišťuje, že uživatelé mají přístup k určitým funkcím aplikace, zatímco autorizace ověřuje, zda jsou uživatelé oprávněni k používání aplikace\n    ",
+            "Value #5": "Autentizace se zabývá ochranou hesel a přihlašovacích údajů, zatímco autorizace zajišťuje, že jsou data v aplikaci zabezpečena\n    ",
+            "Value #6": "Autentizace a autorizace jsou stejné výrazy a mají stejný význam v oblasti server-side\n    ",
+            "Value #7": "Autentizace zajišťuje, že uživatelé mají správná oprávnění k používání aplikace, zatímco autorizace kontroluje, zda jsou uživatelé správně ověřeni\n    ",
+            "Value #8": "Štefek Michal     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to cache?\n    ",
+            "Value #3": "Cache je paměťový mechanismus, který ukládá kopie často používaných dat pro rychlejší přístup a snížení zátěže serveru\n    ",
+            "Value #4": " Cache je druh hardwarového zařízení, které ukládá data a zajišťuje, že jsou vždy k dispozici, i když dojde k výpadku napájení\n    ",
+            "Value #5": "Cache je zálohovací mechanismus, který ukládá data na vzdáleném serveru pro případ, že by došlo k výpadku serveru\n    ",
+            "Value #6": "Cache je soubor speciálních instrukcí, které se používají pro rychlejší provádění určitých úloh na serveru\n    ",
+            "Value #7": "Cache je bezpečnostní opatření, které chrání data před útoky hackeřů a zabraňuje jejich neoprávněnému přístupu\n    ",
+            "Value #8": "Štefek Michal     \n    "
+        },
+        {
+            "Value #1": "SEO\n    ",
+            "Value #2": "Co znamená zkratka SEO?\n    ",
+            "Value #3": "Search Engine Optimization\n    ",
+            "Value #4": "Search Engine Origin\n    ",
+            "Value #5": "Search Engine Optimum\n    ",
+            "Value #6": "Social Engine Optimization\n    ",
+            "Value #7": "Social Engine Optimum\n    ",
+            "Value #8": "Krčmářová Linda     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Jak se v SEO nazývají linky z jiných stránek?\n    ",
+            "Value #3": "Backlink\n    ",
+            "Value #4": "Frontlink\n    ",
+            "Value #5": "Boundlink\n    ",
+            "Value #6": "Hidelink\n    ",
+            "Value #7": "Showlink\n    ",
+            "Value #8": "Krčmářová Linda     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "K čemu slouží middleware?\n    ",
+            "Value #3": "Komunikaci mezi aplikacemi\n    ",
+            "Value #4": "Prezentaci dat uživateli\n    ",
+            "Value #5": "Ukládání dat do databáze\n    ",
+            "Value #6": "Zabezpečení aplikace\n    ",
+            "Value #7": "Generování kódu\n    ",
+            "Value #8": "Štefek Michal     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Co je to server? \n    ",
+            "Value #3": "Hardwarové a softwarové vybavení poskytující výpočetní služby\n    ",
+            "Value #4": "pouze hardwarové vybavení na kterém jsou naistalovány softwarové aplikace\n    ",
+            "Value #5": "pouze softwarové vybavení pro zpracovávání příchozích požadavků\n    ",
+            "Value #6": "běžný osobní počítač\n    ",
+            "Value #7": "skříň v serverovně nazývaná taktéž rack\n    ",
+            "Value #8": "Zítka Petr     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jedním z nejčastějších kybernetických útoků je: \n    ",
+            "Value #3": "Man in the middle\n    ",
+            "Value #4": "Gun on the table\n    ",
+            "Value #5": "Woman behind the door\n    ",
+            "Value #6": "Crying baby\n    ",
+            "Value #7": "Hacker behind you\n    ",
+            "Value #8": "Zítka Petr     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jaký prefix mají vnitřní IP adresy? (prefix 16)\n    ",
+            "Value #3": "192.168.\n    ",
+            "Value #4": "255.255.\n    ",
+            "Value #5": "128.256.\n    ",
+            "Value #6": "168.192.\n    ",
+            "Value #7": "256.186.\n    ",
+            "Value #8": "Zítka Petr     \n    "
+        },
+        {
+            "Value #1": "Sítě\n    ",
+            "Value #2": "Jestliže server přijme požadavek klienta na port 80, jaký protokol klient používá? \n    ",
+            "Value #3": "HTTP\n    ",
+            "Value #4": "HTTPS\n    ",
+            "Value #5": "DNS\n    ",
+            "Value #6": "SMTP\n    ",
+            "Value #7": "DHCP\n    ",
+            "Value #8": "Zítka Petr     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Útok mající za cíl internetové stránky, jehož cílem je znepřístupnění těchto stránek ostatním uživatelům se nazývá: \n    ",
+            "Value #3": "DOS\n    ",
+            "Value #4": "Phishing\n    ",
+            "Value #5": "Malware\n    ",
+            "Value #6": "Sniffing\n    ",
+            "Value #7": "Stretching\n    ",
+            "Value #8": "Zítka Petr     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co znamená zkratka PDO?\n    ",
+            "Value #3": "PHP Data Object\n    ",
+            "Value #4": "Personal Data Organizer\n    ",
+            "Value #5": "Public Database Operator\n    ",
+            "Value #6": "Personal Digital Output\n    ",
+            "Value #7": "PHP Database Organizer\n    ",
+            "Value #8": "Váchal Jiří     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "K čemu slouží v PHP funkce \"strlen\"?\n    ",
+            "Value #3": "k získání počtu znaků v řetězci\n    ",
+            "Value #4": "k nahrazení řetězce jiným řetězcem\n    ",
+            "Value #5": "k odstranění mezer v řetězci\n    ",
+            "Value #6": "k přidání nového prvku do pole\n    ",
+            "Value #7": "k získání aktuálního času\n    ",
+            "Value #8": "Váchal Jiří     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "K čemu nám je \"require\" v PHP?\n    ",
+            "Value #3": "funkce pro zahrnutí kódu z jiného souboru do aktuálního souboru\n    ",
+            "Value #4": "funkce pro načtení obrázku na stránku\n    ",
+            "Value #5": "speciální syntaxe pro deklarování proměnné\n    ",
+            "Value #6": "klíčové slovo pro vytvoření objektu\n    ",
+            "Value #7": "operátor pro srovnávání hodnot\n    ",
+            "Value #8": "Váchal Jiří     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co je \"PHP.ini\" ?\n    ",
+            "Value #3": "soubor konfigurace PHP\n    ",
+            "Value #4": "soubor zdrojového kódu PHP\n    ",
+            "Value #5": "soubor výstupu PHP\n    ",
+            "Value #6": "soubor instalace PHP\n    ",
+            "Value #7": "soubor testovacích dat PHP\n    ",
+            "Value #8": "Váchal Jiří     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "K čemu slouží funkce \"array_push\" v PHP?\n    ",
+            "Value #3": "k přidání nového prvku na konec pole\n    ",
+            "Value #4": "k vytvoření nového pole\n    ",
+            "Value #5": "k odebrání posledního prvku pole\n    ",
+            "Value #6": "k výpisu prvků pole\n    ",
+            "Value #7": "k setřídění prvků pole\n    ",
+            "Value #8": "Váchal Jiří     \n    "
+        },
+        {
+            "Value #1": "\n    ",
+            "Value #2": "Co znamená zkratka \"URL\" ?\n    ",
+            "Value #3": "Unified Resource Locator\n    ",
+            "Value #4": "User-Defined Request Language\n    ",
+            "Value #5": "Universal Request Language\n    ",
+            "Value #6": "Unique Resource Language\n    ",
+            "Value #7": "Unique Request Locator\n    ",
+            "Value #8": "Váchal Jiří     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená zkratka JWT?\n    ",
+            "Value #3": "JSON Web Token\n    ",
+            "Value #4": "Java Web Toolkit\n    ",
+            "Value #5": "JavaScript Website Template\n    ",
+            "Value #6": "JavaScript Web Translator\n    ",
+            "Value #7": "JWT je metoda pro enkryptování hesel v databázi.\n    ",
+            "Value #8": "Balata Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to SPA?\n    ",
+            "Value #3": "\"Single Page Application\".\n    ",
+            "Value #4": "\"Server-side Page Architecture\".\n    ",
+            "Value #5": "\"Secure Personal Access\".\n    ",
+            "Value #6": "\"Secure Password Access\"\n    ",
+            "Value #7": "SPA je název speciálního typu webového prohlížeče.\n    ",
+            "Value #8": "Balata Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená akronym SMTP?\n    ",
+            "Value #3": "\"Simple Mail Transfer Protocol\"\n    ",
+            "Value #4": "\"Server-side Multi-Threaded Processor\"\n    ",
+            "Value #5": "\"Systematic Mobile Texting Protocol\"\n    ",
+            "Value #6": "\"Secure Media Transfer Program\"\n    ",
+            "Value #7": "\"Software Management Test Platform\"\n    ",
+            "Value #8": "Balata Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co znamená akronym CORS?\n    ",
+            "Value #3": "\"Cross-Origin Resource Sharing\"\n    ",
+            "Value #4": "\"Client Online Remote Services\"\n    ",
+            "Value #5": "\"Cloud Origin Remote Services\"\n    ",
+            "Value #6": "\"Centralized Online Resource Server\"\n    ",
+            "Value #7": "\"Controlled Origin Resource Sharing\"\n    ",
+            "Value #8": "Balata Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to virtualizace?\n    ",
+            "Value #3": "Virtualizace je proces vytváření virtuální verze nějakého hardwaru, operačního systému, úložiště nebo sítě.\n    ",
+            "Value #4": "Virtualizace je proces zvětšování kapacity úložiště.\n    ",
+            "Value #5": "Virtualizace je proces propojení více hardwarových zařízení.\n    ",
+            "Value #6": "Virtualizace je proces uchování dat v paměti počítače.\n    ",
+            "Value #7": "Virtualizace je proces převodu papírových dokumentů do digitální podoby.\n    ",
+            "Value #8": "Balata Vojtěch     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Co je to Dart Frog a jakým účelem slouží?\n    ",
+            "Value #3": "Dart Frog je backendový framework pro programovací jazyk Dart, který umožňuje vývojářům vytvářet webové aplikace.\n    ",
+            "Value #4": "Dart Frog je databázový systém pro ukládání webových dat.\n    ",
+            "Value #5": "Dart Frog je programovací jazyk určený pro vývoj webových aplikací.\n    ",
+            "Value #6": "Dart Frog je grafické rozhraní pro návrh webových stránek.\n    ",
+            "Value #7": "Dart Frog je plugin pro webový prohlížeč sloužící k ladění kódu.\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Kdo může používat framework Dart Frog?\n    ",
+            "Value #3": " Kdokoliv, kdo má zájem o vývoj webových aplikací a chce použít jazyk Dart.\n    ",
+            "Value #4": "Pouze vývojáři, kteří mají zkušenosti s programováním v jazycích jako Ruby nebo Python.\n    ",
+            "Value #5": "Pouze profesionální vývojáři s dlouholetou zkušeností v programování.\n    ",
+            "Value #6": "Pouze vývojáři, kteří mají zkušenosti s používáním jazyka JavaScript.\n    ",
+            "Value #7": "Pouze začínající vývojáři s minimální znalostí programování.\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaké jsou některé z funkcí, které lze vytvářet s pomocí frameworku Dart Frog?\n    ",
+            "Value #3": " Všechny níže uvedené\n    ",
+            "Value #4": "Webové služby\n    ",
+            "Value #5": "Chatovací aplikace\n    ",
+            "Value #6": "Sociální sítě\n    ",
+            "Value #7": "Elektronické obchody\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Který programovací jazyk se používá s frameworkem Dart Frog?\n    ",
+            "Value #3": "Dart\n    ",
+            "Value #4": "Python\n    ",
+            "Value #5": "Ruby\n    ",
+            "Value #6": "Java\n    ",
+            "Value #7": "C++\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jaké je hlavní použití frameworku Dart Frog?\n    ",
+            "Value #3": "Vývoj backendu webových aplikací\n    ",
+            "Value #4": "Vývoj frontendu webových aplikací\n    ",
+            "Value #5": "Vývoj desktopových aplikací\n    ",
+            "Value #6": "Vývoj mobilních aplikací\n    ",
+            "Value #7": "Vývoj herních aplikací\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jak se nazývá základní soubor v aplikaci vytvořené pomocí frameworku Dart Frog?\n    ",
+            "Value #3": "main.dart\n    ",
+            "Value #4": "index.html\n    ",
+            "Value #5": "app.js\n    ",
+            "Value #6": "package.json\n    ",
+            "Value #7": "styles.css\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým způsobem lze v Dart Frogu definovat trasy (routy) v aplikaci?\n    ",
+            "Value #3": "Pomocí dekorátoru \"@Route\"\n    ",
+            "Value #4": "Pomocí dekorátoru \"@Path\"\n    ",
+            "Value #5": "Pomocí dekorátoru \"@Navigate\"\n    ",
+            "Value #6": "Pomocí dekorátoru \"@Link\"\n    ",
+            "Value #7": "Pomocí dekorátoru \"@Redirect\"\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým způsobem lze v Dart Frogu definovat middleware pro zpracování HTTP požadavků?\n    ",
+            "Value #3": "Pomocí dekorátoru \"@Middleware\"\n    ",
+            "Value #4": "Pomocí dekorátoru \"@Interceptor\"\n    ",
+            "Value #5": "Pomocí dekorátoru \"@Filter\"\n    ",
+            "Value #6": "Pomocí dekorátoru \"@Handler\"\n    ",
+            "Value #7": "Pomocí dekorátoru \"@Processor\"\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým způsobem lze vytvořit nový projekt v Dart Frogu?\n    ",
+            "Value #3": "Stačí vytvořit novou složku a spustit v ní příkaz \"dartfrog create\"\n    ",
+            "Value #4": "Je nutné stáhnout si speciální aplikaci pro tvorbu projektů v Dart Frogu\n    ",
+            "Value #5": "Projekt lze vytvořit pomocí online editoru přímo na webových stránkách Dart Frogu\n    ",
+            "Value #6": "Projekt lze vytvořit pouze při instalaci Dart Frogu jako doplňku k některému IDE\n    ",
+            "Value #7": "Dart Frog nepodporuje tvorbu nových projektů\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        },
+        {
+            "Value #1": "Obecné - IT server side\n    ",
+            "Value #2": "Jakým způsobem lze spustit aplikaci Dart Frog?\n    ",
+            "Value #3": "Stačí spustit příkaz \"dartfrog run\" v kořenové složce projektu\n    ",
+            "Value #4": "Je nutné použít speciální aplikaci pro spuštění aplikace v Dart Frogu\n    ",
+            "Value #5": "Aplikaci lze spustit pouze při instalaci Dart Frogu jako doplňku k některému IDE\n    ",
+            "Value #6": " Aplikace se spouští automaticky při otevření souboru \"index.html\"\n    ",
+            "Value #7": "Dart Frog nepodporuje spuštění aplikací\n    ",
+            "Value #8": "Smolík Jakub     \n    "
+        }
+    ]
+}
