@@ -268,5 +268,5 @@ function shuffle(input) {
 function correctedHtmlString(value) {
     let pattern1 = /(<\s*)/g;
     let pattern2 = /(\s*>)/g;
-    return value.replace(pattern1, '≺').replace(pattern2, ' ≻')
+    return value?.replace(pattern1, '≺')?.replace(pattern2, ' ≻')
 }
