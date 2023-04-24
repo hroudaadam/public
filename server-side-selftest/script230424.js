@@ -226,7 +226,7 @@ function check() {
 }
 
 async function zalozOtazky() {
-    let res = await fetch('data_230404T2000.json');
+    let res = await fetch('public/server-side-selftest/data230424.json');
     let data = await res.json();
     data.Table.map(d => {
         pridejOtazku(d["Value #2"], d["Value #3"], d["Value #4"], d["Value #5"], d["Value #6"], d["Value #7"])
