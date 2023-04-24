@@ -244,7 +244,7 @@ function pridejOtazku(otazka, a, b, c, d, e) {
         c: arr[2],
         d: arr[3],
         e: arr[4],
-        odpoved: correctedHtmlString(a)
+        odpoved: a
     };
 
     otazky.push(q);
