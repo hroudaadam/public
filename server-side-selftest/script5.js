@@ -254,7 +254,7 @@ function shuffle(input) {
     let array = [];
     for (let i = 0; i < input.length; i++) {
         const element = input[i];
-        array.push(correctedHtmlString(element));
+        array.push(element);
     }
 
     for (let i = array.length - 1; i > 0; i--) {
@@ -263,10 +263,4 @@ function shuffle(input) {
     }
 
     return array;
-}
-
-function correctedHtmlString(value) {
-    let pattern1 = /(<\s*)/g;
-    let pattern2 = /(\s*>)/g;
-    return value?.replace(pattern1, '≺')?.replace(pattern2, ' ≻')
 }
